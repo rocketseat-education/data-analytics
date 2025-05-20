@@ -8,11 +8,11 @@ O repositório está organizado em módulos, onde cada pasta representa um módu
 
 ```
 data-analytics/
-├── modulo-1/
+├── coletando-os-dados/
 │   ├── aula-1.ipynb
 │   ├── aula-2.ipynb
 │   └── ...
-├── modulo-2/
+├── tratando-os-dados/
 │   ├── aula-1.ipynb
 │   ├── aula-2.ipynb
 │   └── ...
