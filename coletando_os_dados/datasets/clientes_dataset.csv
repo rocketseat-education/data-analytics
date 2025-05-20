@@ -1,0 +1,1001 @@
+cliente_id,nome,email,idade,cidade,estado,data_ultima_compra,total_gasto,frequencia_compras,forma_pagamento,satisfacao,cliente_ativo
+1,Norma Fisher,christopherbond@yahoo.com,62,Elliottmouth,NJ,2025-01-26,4635.94,21,Crédito,1,False
+2,Jorge Sullivan,jeaton@yahoo.com,65,East Adam,PA,2024-05-24,1615.33,5,Boleto,4,False
+3,Elizabeth Woods,mfuller@jones-taylor.com,18,Whitetown,GA,2024-09-29,2075.77,13,Boleto,3,True
+4,Susan Wagner,lauren75@gmail.com,21,Jamesside,RI,2025-01-03,3202.0,22,Débito,5,False
+5,Peter Montgomery,tdaugherty@pratt-crawford.com,21,Heidiborough,TN,2024-11-28,4464.2,18,Crédito,5,True
+6,Theodore Mcgrath,grant52@yahoo.com,57,East Josephberg,CA,2024-05-08,2219.77,23,Crédito,3,True
+7,Stephanie Collins,rodriguezmarc@yahoo.com,27,West Codychester,AR,2024-11-03,4648.27,9,Débito,5,True
+8,Stephanie Sutton,melissa03@hotmail.com,37,Wyattborough,AK,2024-07-28,3001.2,16,Pix,3,True
+9,Brian Hamilton,geoffreygrant@yahoo.com,39,New Kendraview,PA,2024-10-14,2215.75,7,Crédito,3,True
+10,Susan Levy,marquezpaula@rodriguez.info,68,Danielfurt,MI,2024-04-18,3004.62,11,Boleto,4,False
+11,Sean Green,jasminebrown@gmail.com,54,New Kathrynland,NJ,2024-07-06,1837.08,2,Pix,5,False
+12,Kimberly Smith,conleycathy@campbell.org,41,East Jerry,CO,2025-01-30,3319.4,5,Crédito,2,True
+13,Jennifer Summers,melissayoder@barrera-schmidt.com,24,Aprilbury,UT,2024-06-18,3296.31,5,Pix,3,True
+14,April Snyder,deborahpowell@gmail.com,42,Frankmouth,VA,2024-10-07,4126.42,14,Pix,1,False
+15,Dana Nguyen,lewisabigail@lowe-bryant.com,42,Johnport,IA,2024-04-12,2073.56,14,Crédito,3,True
+16,Cheryl Bradley,trobles@yahoo.com,30,Nathantown,IA,2024-12-24,284.07,10,Crédito,4,True
+17,Walter Pratt,michaelporter@brown.biz,19,South Shannonbury,IL,2024-04-04,4924.69,9,Débito,2,False
+18,Bobby Flores,karen15@gonzalez.net,56,Ashleyberg,ID,2025-01-02,2295.9,7,Boleto,3,False
+19,Tasha Rodriguez,ldalton@hotmail.com,57,Glennshire,NH,2024-05-28,4694.41,13,Crédito,4,True
+20,Michelle Kelley,kim09@hotmail.com,41,South Elizabeth,ID,2024-04-14,3393.0,3,Crédito,4,True
+21,Kimberly Maynard,james81@gonzales-rodriguez.info,64,South Michelle,IN,2024-06-08,1406.81,4,Boleto,5,True
+22,Laurie Wallace,ystewart@yahoo.com,42,Douglasmouth,HI,2025-02-08,2863.92,9,Débito,3,False
+23,Janice Johnston,victoria28@rojas.com,35,Port Nathanville,MS,2024-09-28,4788.97,17,Pix,4,True
+24,Collin Lopez,hoffmanandrew@hubbard.com,55,Jennifertown,AR,2024-05-21,656.08,6,Boleto,5,True
+25,Mary Alvarez,elizabeth10@gmail.com,43,West Sethmouth,MI,2024-05-21,1433.92,9,Débito,3,True
+26,Peter Mcdowell,stephanie89@rollins.com,31,North Nicholas,CA,2024-11-20,502.08,24,Pix,2,True
+27,Sarah Villanueva,blackwelljoann@hernandez-harris.org,26,Garciachester,NE,2024-04-28,3849.83,22,Boleto,5,False
+28,Kimberly Myers,karen47@mills-henry.com,27,Port Jeromeside,TN,2024-05-08,206.27,23,Débito,4,True
+29,Desiree Cain,vmoody@yahoo.com,38,Richmondborough,MT,2024-10-25,772.53,6,Crédito,3,True
+30,Stephanie Lawrence,wbraun@yahoo.com,69,Lake Kendraview,MI,2024-11-06,1377.08,24,Crédito,3,True
+31,Lauren Hayes,maryreeves@powell-stevenson.com,34,New Devinview,MA,2024-05-02,4368.3,5,Pix,2,True
+32,Whitney Stark,klee@everett.com,69,North Chris,NE,2025-02-24,979.11,12,Crédito,1,False
+33,Angela Salazar,dorismartinez@hamilton.com,23,North Jason,MI,2024-03-30,2223.07,3,Pix,3,True
+34,Mr. Ryan Sanchez,warnervirginia@sharp.com,33,Smithfurt,UT,2025-01-16,1693.08,7,Débito,4,False
+35,Autumn Robinson,michael16@martinez-berry.net,65,Jasonland,DE,2024-11-04,2958.68,7,Crédito,3,False
+36,Faith Cabrera,kathrynhudson@mitchell.com,18,New Amandaview,TX,2024-07-08,4688.69,13,Pix,5,True
+37,Charles Wolfe,gregorywatts@sparks-nguyen.info,36,South Ryanborough,OH,2025-01-12,4709.83,18,Boleto,2,True
+38,Kenneth Kent,websterrandy@gmail.com,53,Riverachester,DE,2024-11-13,357.29,17,Débito,4,False
+39,Melanie Johnson,ryan35@lawrence-murphy.info,42,South Jocelynhaven,VA,2024-07-14,3021.43,6,Crédito,4,False
+40,Lisa Johnston,john05@yahoo.com,67,North Albertport,MT,2024-06-13,4469.82,1,Crédito,1,False
+41,Jacob Hooper,castrosherry@conner.com,69,North Kyle,CO,2025-01-30,3926.56,11,Pix,5,True
+42,Alex Woodward,erin71@fuentes-nelson.com,47,South Christine,DE,2024-11-12,1136.52,18,Boleto,3,True
+43,Caleb Clark,ztrevino@shepherd-anderson.com,37,West Anna,CA,2024-06-07,3848.47,13,Crédito,4,True
+44,Taylor Johnson,catherine77@gmail.com,37,Hoodshire,KY,2024-11-16,1026.41,5,Pix,4,True
+45,Brian Green,robertjohnson@gmail.com,32,Jennifertown,NH,2024-05-07,4503.92,11,Crédito,4,True
+46,Matthew Bell,fisherkatherine@kane-mclean.com,57,New Katrinashire,DC,2024-05-08,143.76,2,Débito,4,False
+47,Jonathan Williams,david85@hotmail.com,50,Ryanhaven,AL,2024-07-22,542.14,10,Crédito,2,False
+48,William Gonzalez,davisdaniel@fritz-robbins.com,19,South Robert,WY,2024-04-25,3134.0,17,Pix,5,True
+49,Nicholas Massey,wrivera@king.com,27,Christineview,ME,2024-12-18,1973.96,14,Pix,5,True
+50,Caroline Chambers,ohamilton@hotmail.com,50,West Laurenstad,OH,2024-11-13,573.16,20,Pix,5,True
+51,Amy Lowe,boydcaitlin@yahoo.com,49,West Matthew,VA,2024-05-06,4926.17,10,Boleto,4,False
+52,Gloria King,stephaniehart@yahoo.com,28,Seanchester,CT,2025-02-20,4493.25,13,Boleto,3,True
+53,Jessica Thompson,jessicacampbell@gomez.com,41,Port Jennifer,TN,2025-03-01,1428.46,13,Débito,4,True
+54,Jason Carroll,jennifer92@yahoo.com,53,Housestad,CO,2024-08-27,2418.63,20,Crédito,4,True
+55,Emily Howard,morrowsara@miller-rhodes.com,29,Jacobshire,KS,2024-04-16,2450.79,12,Boleto,2,True
+56,Danielle Castro,mariochavez@moran.com,68,Thompsonchester,VA,2024-05-22,2591.11,17,Crédito,5,True
+57,Patrick Rogers,nparsons@brown.org,46,Port Deborahfort,OR,2025-01-16,4839.57,19,Crédito,3,True
+58,Douglas Allen,travisbarrett@carter.com,52,East Amanda,LA,2025-01-08,589.8,6,Pix,2,False
+59,Heather Roberts,stephensonchristine@hotmail.com,18,Kennedyfurt,WI,2024-12-13,294.29,15,Pix,5,False
+60,Travis Schultz,beverlysmith@yahoo.com,18,Lake Richard,OK,2024-05-24,2470.16,5,Crédito,5,True
+61,Michelle Hughes,murphyjoshua@yahoo.com,54,New Andrewstad,CT,2024-10-06,2345.47,19,Pix,4,True
+62,Matthew Smith,anne50@smith.biz,23,Aprilmouth,SD,2024-11-06,1252.79,5,Crédito,4,True
+63,George Allen,bhall@marshall.org,56,South Mark,ND,2025-01-11,388.46,19,Crédito,3,True
+64,Jamie Hutchinson,wongalexander@gmail.com,58,South Anthonyville,NJ,2024-10-19,706.84,16,Pix,5,True
+65,Jennifer Morales,phillipharper@robinson.com,35,Vanessaton,DC,2024-04-18,4298.1,1,Boleto,4,False
+66,Jennifer Bates,kvelasquez@yahoo.com,33,Richardville,MT,2024-12-15,2058.37,18,Crédito,4,True
+67,Jeremy Green,crystal83@cain.biz,22,Lake Jacqueline,MS,2024-06-24,1968.85,6,Boleto,4,True
+68,Joseph Freeman,monroejames@yahoo.com,59,Pierceville,TN,2024-05-18,207.67,12,Boleto,1,True
+69,Nicole Henson,jasongonzalez@todd-rivera.com,60,Jamesfurt,AR,2024-05-30,1936.29,13,Pix,4,True
+70,Eric Owens PhD,barbaraperry@landry.org,49,South Markchester,IA,2024-07-13,3341.88,6,Boleto,5,True
+71,Robin Lopez,laurafloyd@yahoo.com,19,West Jeremy,NV,2025-01-25,3164.26,9,Boleto,4,False
+72,Miss Angela Swanson DVM,annramos@hotmail.com,19,Gonzalezborough,ND,2024-10-17,4578.56,15,Boleto,4,False
+73,Michael Stewart,schneideralicia@gmail.com,57,Adamfurt,MO,2024-08-03,3391.79,17,Boleto,3,True
+74,Mitchell Smith,uwalker@gmail.com,59,Nunezhaven,WA,2024-11-21,1688.01,17,Crédito,4,False
+75,Kelsey Davis,nicholeturner@wilson-harvey.net,53,Hamiltonmouth,NJ,2024-11-12,1649.48,11,Pix,1,True
+76,Matthew Russo,wscott@taylor-robertson.info,56,Josephburgh,AK,2024-11-04,4183.25,6,Pix,3,False
+77,William Garcia,xhensley@gmail.com,29,Port Destiny,VA,2024-06-06,3901.44,24,Pix,5,False
+78,Jennifer Miller,james14@watson-carter.com,64,North Patrick,AZ,2024-12-29,1477.65,16,Crédito,3,True
+79,Jesse Sparks,justin53@krause.com,36,Mcconnellborough,MN,2024-12-15,3598.24,4,Crédito,3,True
+80,Brandi Meyer,nicholsjohn@gmail.com,45,Jillfurt,IA,2024-04-01,2851.73,7,Débito,4,True
+81,Hannah Wiggins,ijohnson@hotmail.com,18,East Cynthia,FL,2024-07-23,2058.33,17,Crédito,4,True
+82,Albert Williams,qcohen@harris.com,32,East Jamesland,NH,2024-12-22,2701.21,19,Crédito,2,True
+83,Kristin Potts,harry14@hotmail.com,53,Michaelburgh,WA,2024-09-06,517.64,17,Boleto,1,True
+84,Susan Williams,toddphillips@hotmail.com,30,South Ashleychester,WI,2024-07-06,3361.82,11,Crédito,5,False
+85,Meredith Rios,woodsjames@adams-murphy.com,60,Yoderberg,KY,2024-07-14,245.21,16,Débito,4,True
+86,Stephanie Bowman,wmontoya@anderson.info,38,Garciabury,AR,2024-09-29,4457.51,22,Débito,4,False
+87,Joshua Clark,timothy40@yahoo.com,29,Kimtown,ME,2024-09-15,3442.38,2,Boleto,2,True
+88,Alexa Hernandez,ewatkins@melton.com,22,Ericside,DC,2024-09-12,4467.44,24,Crédito,3,True
+89,Richard Higgins,lmcmahon@hooper-blankenship.org,24,Wilkinsville,CO,2024-08-18,105.92,11,Crédito,3,True
+90,Marc Williams,aandersen@richardson.com,22,Samuelchester,SD,2024-04-16,4692.37,13,Pix,4,True
+91,William Roberts,kennethwashington@reynolds.org,65,Heidiport,MT,2024-04-22,4795.71,20,Crédito,5,True
+92,Joshua Carter,howard05@garcia.org,21,Osborntown,MO,2024-05-14,4001.97,3,Boleto,5,True
+93,David Williams,navarropatricia@fitzgerald.net,30,Kathleenhaven,IA,2024-10-20,4961.16,20,Pix,1,True
+94,Joseph Jones,matthew91@gmail.com,54,New Melissaview,CO,2025-01-17,1840.6,19,Crédito,2,True
+95,Gary Perry,tgreen@robinson-chapman.com,58,North Jennifer,KY,2025-01-31,4256.87,20,Pix,5,True
+96,Terry Wells,prattshannon@gmail.com,32,Ayalaland,WV,2024-05-04,3876.31,8,Débito,1,True
+97,Vanessa Cooper,gonzalesjeanne@king-smith.com,33,Bradleyhaven,SC,2024-06-20,3630.58,8,Boleto,5,True
+98,Michael Simmons,jessica56@smith.org,38,East Joel,HI,2024-04-11,3203.73,2,Débito,4,True
+99,Nicholas Kline,bleon@hotmail.com,53,Floresview,OR,2024-10-13,1606.14,13,Crédito,1,True
+100,Lori Bennett,andrew21@williams.com,41,East Cherylhaven,GA,2024-12-16,2732.67,21,Débito,4,False
+101,Margaret Jones,john91@contreras.com,33,Cameronbury,TX,2024-11-09,1445.42,13,Débito,3,True
+102,Paul Brown,murraycynthia@lewis-swanson.info,31,Jacobmouth,VA,2025-02-28,142.58,23,Pix,4,False
+103,James Stone,michellejackson@lozano.com,39,West Deborahmouth,WV,2024-05-03,222.23,8,Boleto,2,True
+104,John Richards,kscott@doyle-herrera.info,66,New Markshire,ME,2024-04-25,807.0,13,Boleto,4,True
+105,Jenny Richardson,davidlewis@garcia.com,67,Denisemouth,CT,2024-08-30,2617.42,17,Débito,2,True
+106,Debbie Waters MD,cchavez@smith-jensen.net,23,Port Virginiamouth,NH,2024-08-10,1191.02,17,Crédito,3,True
+107,Austin Boyer,davidevans@yahoo.com,59,Williamsberg,DC,2024-04-30,1910.5,7,Crédito,4,True
+108,Stephanie Hayes,ellisashley@yahoo.com,53,Thompsonville,NJ,2025-02-21,370.03,5,Débito,2,True
+109,Barbara Sanders,joann59@hotmail.com,18,East Randychester,ND,2024-08-04,4564.87,14,Crédito,3,True
+110,Andrew Gould,shannon19@yahoo.com,49,West Katiehaven,IA,2024-09-22,4436.26,21,Débito,1,True
+111,Charles Gonzalez,moranmichelle@hotmail.com,23,Taylorfort,LA,2024-11-12,4496.66,13,Boleto,4,True
+112,Joshua Hernandez,randallwendy@wall-garcia.com,48,Port Christinefurt,TN,2024-08-16,1727.74,22,Crédito,2,False
+113,Victoria Hernandez MD,smithkaitlyn@black.info,18,Howardchester,MD,2024-11-30,3593.34,2,Pix,5,False
+114,Sherry Simpson,meredith84@gonzalez-garner.org,67,Johnsonmouth,UT,2024-09-20,2192.02,19,Débito,4,True
+115,Erica Jimenez,aparker@hotmail.com,68,Besttown,RI,2024-06-09,1578.29,7,Crédito,2,True
+116,Mr. Dakota Lynch II,petersonchristopher@yahoo.com,54,Karaburgh,AK,2024-12-16,445.01,3,Pix,1,True
+117,Victor Nolan,lisa49@hotmail.com,52,Martinmouth,UT,2024-10-13,2167.04,15,Boleto,2,False
+118,Amanda Hernandez,andreagibson@alvarez-miller.com,66,Davidfurt,VA,2025-03-05,2002.77,14,Débito,2,False
+119,Richard Kirby,michael55@reyes.com,47,Beardton,MD,2024-04-04,885.93,6,Crédito,4,True
+120,Michelle Roman,gwilliams@yahoo.com,21,Floresshire,TX,2024-12-24,1816.02,14,Boleto,2,True
+121,Bradley Melton,katherine51@yahoo.com,52,Reidmouth,NV,2024-12-29,568.54,22,Débito,4,True
+122,Danny Williams,lguerra@nolan-phillips.com,60,Port Yolanda,MI,2025-02-15,4368.4,12,Pix,1,True
+123,Ryan Rivera,griffinjohn@gmail.com,31,Port Richard,LA,2024-08-20,3371.21,6,Débito,3,False
+124,Charles Douglas,jameslaura@hancock.com,66,Port Michaelbury,RI,2024-09-12,1044.32,18,Boleto,2,True
+125,Kathy Santana,jason27@gmail.com,57,West Anthonyhaven,CT,2025-02-04,4598.65,13,Pix,5,True
+126,Laura Gregory,bakerderrick@gmail.com,39,Karenhaven,NC,2024-06-10,2940.44,21,Pix,2,True
+127,Norma Mooney,xwarren@hotmail.com,27,Bradyside,VA,2024-07-16,2333.9,7,Boleto,2,False
+128,Susan Harris,cookbreanna@yahoo.com,18,Nelsonchester,AL,2024-09-28,3247.52,16,Crédito,4,True
+129,Linda Petersen,brandonmeyer@yahoo.com,28,Lake Clintonburgh,GA,2024-11-29,1344.72,10,Pix,3,True
+130,Dr. James Willis,hflores@baldwin.net,68,Michellestad,NV,2025-01-28,2800.29,11,Pix,4,True
+131,Rebecca Sandoval,wilkinsamber@hernandez-baldwin.org,61,Wilsonville,GA,2024-10-01,746.33,9,Crédito,4,True
+132,Christopher Hunter,chamilton@yahoo.com,41,Port Kevinburgh,PA,2024-09-17,1082.53,17,Pix,1,True
+133,Austin Heath,wardemma@peterson.com,20,Hernandezbury,VA,2024-08-11,2618.87,6,Crédito,5,True
+134,Elizabeth Russell,wendygeorge@martin.com,52,Gregoryhaven,RI,2024-04-03,577.72,7,Boleto,5,False
+135,Amy Davidson,tayloramy@price-wood.com,53,Catherineton,MO,2024-08-19,4274.08,17,Boleto,5,True
+136,Dustin Greer,briannasmith@peterson-downs.com,48,Princeville,OK,2024-06-15,2038.16,7,Crédito,5,False
+137,Andrew Butler,ortizmichael@hotmail.com,21,East Michael,SD,2024-03-28,1242.08,17,Pix,4,True
+138,Scott Love DDS,jasonwarren@hotmail.com,36,East Natasha,TN,2025-01-24,2968.62,7,Débito,5,False
+139,William Jenkins,floresbrandi@oliver.info,64,Kelseymouth,WV,2024-07-07,3759.5,24,Pix,3,True
+140,Jasmine Williams,alopez@yahoo.com,53,Shaunmouth,NH,2024-12-29,3084.04,2,Débito,5,False
+141,Christian Johnson,edward25@townsend-brooks.com,38,North Christopherview,MN,2024-10-05,2937.15,16,Pix,3,True
+142,Lorraine Garcia,lori63@gmail.com,35,Ryanland,WI,2024-05-25,933.49,2,Boleto,4,False
+143,Hannah Reyes,briddle@flynn.com,68,Tammybury,PA,2024-11-15,3463.17,22,Crédito,3,True
+144,Katherine Ibarra,alexandertanya@stokes.biz,45,Mitchellstad,NM,2024-08-15,4886.33,15,Pix,4,True
+145,Julie Chen,ryanpitts@hotmail.com,32,Brianmouth,NY,2024-09-01,3082.11,1,Crédito,3,True
+146,Caleb Fleming,fmendez@greene-mcgrath.biz,59,West John,NY,2024-08-06,1709.06,23,Débito,3,False
+147,Rachel Martinez,gregory51@dean.com,19,Meganmouth,CT,2024-07-09,4033.19,5,Pix,4,True
+148,Rebecca Stark,andrew75@lin-romero.com,54,Mccoyview,NH,2025-03-21,4198.18,21,Débito,4,False
+149,Melanie Patrick,henryderrick@gmail.com,28,Thomasfort,AK,2024-04-30,2134.87,21,Pix,1,False
+150,Rachel Lopez,roycindy@hotmail.com,40,Robertville,NH,2024-07-13,2136.48,8,Crédito,3,True
+151,Jill Sherman,walkerlaura@anderson-king.org,61,North Larrybury,FL,2024-07-06,4689.42,3,Crédito,4,False
+152,Richard Jones,rachelprice@booth.info,58,New Anna,IL,2024-06-15,3638.7,18,Pix,3,True
+153,Timothy Tucker,garnerrandy@cooper-salinas.com,29,North Tom,DC,2024-08-27,261.22,15,Débito,4,True
+154,Theresa Estrada,randy93@yahoo.com,20,Robertstad,WV,2024-08-10,2187.14,5,Pix,5,False
+155,Cindy Davis,tylerdavid@doyle.biz,69,Nathanmouth,OR,2025-03-01,560.08,10,Pix,5,False
+156,Stacy Chan,hannah61@nelson-hernandez.com,34,Stephaniestad,AK,2024-08-04,4894.88,9,Pix,4,True
+157,Jennifer Torres,frankclark@hotmail.com,50,South Anthonyhaven,MT,2025-01-09,2918.54,21,Débito,1,False
+158,Jeffery Knight,garciawhitney@andrews-campbell.com,18,Jeffhaven,MN,2024-09-17,3254.02,21,Boleto,5,False
+159,Taylor Perry,daniel45@hotmail.com,56,South Phillip,PA,2024-09-19,1885.87,24,Pix,5,True
+160,Raymond Navarro,yusharon@gmail.com,37,South Emily,PA,2024-06-25,3371.8,17,Boleto,2,True
+161,Jeremy Parks,jessica97@wu-matthews.com,64,Ericborough,WA,2024-09-30,2902.03,8,Crédito,4,True
+162,Thomas Rivers,qhenderson@watkins.net,60,New Mary,AR,2024-05-26,3895.95,12,Pix,2,True
+163,Angela Jones,billymartinez@yahoo.com,69,Howellside,WV,2024-09-01,4510.5,11,Pix,2,False
+164,Allen Bailey,lisa89@ross.com,58,Port Kathleenview,VA,2024-07-12,2081.1,14,Crédito,3,True
+165,William Fuentes,marcuspeters@williams.com,31,Ortizport,WA,2024-04-19,4487.19,16,Boleto,3,False
+166,Steven Clark,nicolehudson@hotmail.com,48,East Douglas,FL,2024-09-14,418.9,10,Pix,4,False
+167,Michael Mays,fclark@villa.com,42,West Nicholasview,ME,2024-07-27,3458.84,6,Débito,2,True
+168,Adam Wood,jasoncharles@gonzalez-harris.net,20,North Leeton,LA,2024-05-18,1232.24,3,Boleto,5,True
+169,Larry Villarreal,nespinoza@hotmail.com,21,East Stephaniebury,NV,2025-02-28,2740.46,7,Boleto,2,True
+170,Brian Cooper,melissa54@hall.org,48,Millerview,AK,2024-12-13,3887.87,10,Pix,4,True
+171,Beverly Levy,ryan10@murphy.org,52,Port Pamela,MA,2024-10-16,3758.26,14,Débito,2,True
+172,John Carter,allenkristin@hotmail.com,61,Port Williamburgh,TN,2025-01-10,3635.01,6,Boleto,4,True
+173,Tina Fields,myersedward@walker-young.com,31,Smithmouth,AR,2024-05-03,2466.17,7,Pix,4,False
+174,Willie Garcia,jwoods@coleman.com,66,Ginamouth,ID,2024-07-06,1050.71,22,Boleto,4,False
+175,Brooke Hurst,gregg41@hayes-david.info,58,Navarromouth,IN,2025-02-14,1107.27,4,Pix,3,True
+176,Regina Stewart,clee@hotmail.com,26,New Brendaborough,VA,2024-05-19,2723.79,12,Pix,5,True
+177,Paul Carter,marisapowell@baker-jackson.org,37,South George,NY,2025-01-16,2245.29,11,Débito,3,True
+178,Angel Anderson,yatescharlotte@yahoo.com,49,Johnsonshire,KY,2024-10-30,4877.45,12,Crédito,5,True
+179,Blake Jones,torresmolly@gmail.com,26,Kingbury,OK,2025-01-20,1574.04,15,Boleto,4,False
+180,Juan Yang,keithedwards@yahoo.com,44,South Robertton,FL,2024-07-06,486.95,20,Boleto,3,True
+181,Jay Walsh,wpennington@armstrong.net,20,Lewischester,NC,2024-05-23,3661.7,12,Boleto,3,True
+182,Jeremy Wood,brownstephanie@chavez-schneider.net,21,South Jeffreyland,MI,2024-07-31,4879.58,17,Boleto,5,True
+183,Amy Ortiz,fisherlaura@gmail.com,62,Lake Chadland,DC,2024-06-25,3932.24,4,Boleto,2,True
+184,Nicholas Flores,browndesiree@hotmail.com,32,North Annport,KY,2024-09-12,1310.52,21,Boleto,2,True
+185,Edward Ruiz,mcdowellalicia@flowers.com,50,South John,MA,2025-03-16,279.15,18,Pix,4,True
+186,Rebecca Hill,gclayton@white.net,22,West Catherine,WY,2024-09-12,2093.92,17,Pix,5,True
+187,Melissa Flynn,timothyjacobs@ross-williams.net,21,Jenniferview,CO,2025-01-03,4400.98,11,Pix,3,True
+188,James Saunders,wigginsdavid@hotmail.com,63,Rodriguezville,MD,2025-02-08,2216.77,10,Crédito,4,True
+189,David Chavez,sanchezmorgan@gmail.com,29,Wrightport,ME,2024-06-27,1492.02,4,Boleto,4,True
+190,Brenda Ford,fbrennan@scott-burnett.net,40,West Thomas,TN,2024-04-30,4682.98,20,Pix,4,True
+191,Karen Harris,fmoore@berry.biz,31,Lake Tyler,NC,2024-07-13,3884.1,16,Débito,4,True
+192,Michael Montgomery,zcarlson@yahoo.com,63,Jamestown,NM,2024-07-29,3093.83,5,Boleto,5,True
+193,Edwin Mack,meganevans@hotmail.com,29,West Angela,MN,2024-04-01,113.12,7,Boleto,3,True
+194,Kimberly Moore,sandy43@hamilton.com,34,Melissaville,OR,2024-03-24,4664.37,22,Crédito,5,False
+195,Kaitlin Gregory,turnerjames@ortiz.com,42,North Johnathan,WI,2024-11-05,3401.8,8,Débito,4,False
+196,Crystal Gill,robertmarshall@gmail.com,47,Georgestad,KY,2024-04-01,1199.89,18,Débito,3,False
+197,William Martinez,philip19@yahoo.com,39,Rachaelland,MN,2025-01-01,221.29,22,Crédito,3,True
+198,Amanda Scott,mercerdanielle@hotmail.com,64,Vangton,OK,2024-09-21,136.59,24,Crédito,3,False
+199,Lauren Foster,alan63@gmail.com,43,North Kathleentown,GA,2024-07-29,4644.27,13,Pix,5,True
+200,David Campbell,perrymason@brock-james.com,34,East Teresa,SC,2024-04-10,3496.45,7,Crédito,1,False
+201,Susan Larson,solomonaustin@hotmail.com,37,West Dominiqueburgh,FL,2024-11-22,3555.22,12,Boleto,1,True
+202,Ricky Torres,rachelhardy@taylor-carter.info,51,North Ashleyville,LA,2024-08-23,3020.72,12,Débito,3,True
+203,Joseph Wright,adamschristine@taylor.com,58,Lake Alicia,WI,2025-03-15,2732.45,23,Pix,4,False
+204,Carla Perry,kevin80@yahoo.com,50,Feliciaton,AK,2024-03-26,2332.33,15,Crédito,5,True
+205,Joseph Berry,benjaminvaldez@gmail.com,54,West Tracyton,WI,2024-04-08,3040.95,12,Débito,4,True
+206,Kim Jenkins,christopher50@hotmail.com,24,South Stephaniestad,MN,2024-04-10,3305.0,7,Crédito,1,True
+207,Jennifer Osborne,jonathanbennett@yahoo.com,39,Finleyburgh,MA,2024-04-18,1927.89,14,Pix,1,True
+208,Ebony Watson,nmartin@hotmail.com,49,East Aprilfort,OH,2024-04-26,3374.35,14,Boleto,2,True
+209,Brooke Terry,millscourtney@sweeney.com,31,Port Amber,MA,2024-12-25,2338.73,18,Débito,4,False
+210,Kevin Taylor,joanbrown@hotmail.com,25,North Nicolemouth,HI,2024-07-10,516.83,9,Crédito,3,True
+211,Heather Kennedy,eatonsusan@hotmail.com,42,North Brandi,WY,2024-08-01,1242.55,5,Pix,4,True
+212,John Neal,stevensandrew@wright-strong.com,33,East Meredith,ID,2024-04-09,498.72,19,Boleto,1,True
+213,Matthew Brown,russellmarquez@schaefer.org,59,Jeffreyshire,WI,2025-02-01,1677.88,17,Crédito,4,False
+214,Patrick Williams,hallashley@fischer.org,36,Justinland,PA,2024-07-22,3095.5,3,Boleto,4,False
+215,Allison Ruiz,alicia52@gmail.com,58,Changhaven,CA,2024-12-13,1901.37,9,Boleto,4,True
+216,Alexandra Rose,colonconnor@gmail.com,33,Hallton,CA,2025-02-16,3658.51,12,Pix,5,True
+217,Sean Parks,robert84@bell.com,29,Lake Randyshire,OH,2025-02-24,3422.49,16,Débito,3,False
+218,Maureen Smith,hstanley@mckenzie.com,56,Wagnershire,IN,2025-03-20,808.99,20,Débito,4,False
+219,Marc Key,patricklopez@hotmail.com,65,Brooksborough,NM,2024-10-13,923.41,24,Crédito,2,False
+220,Melissa Acosta,ronald42@dickson.info,47,Port Crystalborough,MO,2024-04-11,415.73,16,Débito,4,True
+221,Paul Roberts,annflynn@hotmail.com,19,Katrinabury,NM,2025-01-02,1395.23,14,Crédito,2,False
+222,Joel Rivera,seancummings@ortiz.com,49,Morganburgh,AL,2024-12-23,1806.95,15,Crédito,4,False
+223,Javier Prince,josephpalmer@hotmail.com,62,Port Brittany,PA,2024-07-20,532.42,15,Débito,3,True
+224,Jermaine Fletcher,manderson@hotmail.com,42,Javierfurt,HI,2024-06-22,3050.92,19,Crédito,1,False
+225,Beverly Lozano,shanesmith@yahoo.com,42,Susanstad,NC,2024-12-17,3600.44,15,Boleto,3,True
+226,Richard Price,schwartzerica@yahoo.com,21,Kendratown,OK,2024-08-19,870.39,14,Crédito,4,True
+227,Jean Robinson,nancyadams@yahoo.com,36,North Whitneyshire,WV,2025-03-12,1776.47,2,Débito,5,True
+228,Todd Willis,jennifermurphy@hotmail.com,65,Wolfehaven,SD,2025-03-15,3663.52,5,Boleto,4,False
+229,James Young,ybaxter@rivera-lee.com,21,East Joe,VT,2024-05-20,3350.26,21,Pix,4,True
+230,Cody Brown,nmueller@martin-lopez.com,60,Jamesville,AZ,2024-08-07,4286.85,11,Crédito,3,True
+231,Carrie Bishop,carneyrandy@mccoy-johnson.org,30,South Stevenview,WI,2024-10-07,2817.56,21,Crédito,4,True
+232,Michele Hunt,diana93@yahoo.com,56,Bakerchester,SD,2024-10-21,226.21,19,Crédito,5,False
+233,Shawn Gomez,rrodriguez@hotmail.com,53,Bellhaven,PA,2025-01-19,380.87,5,Débito,5,True
+234,Mark Black,wademichael@hotmail.com,40,West Josephland,CO,2024-12-14,492.3,9,Boleto,1,True
+235,Tina Spears,howardsteven@collins.com,23,Montgomerystad,NJ,2024-12-29,2633.97,24,Pix,4,False
+236,Lauren Henry,mathewscarrie@simpson.net,41,Annchester,GA,2025-01-17,3800.02,10,Débito,2,True
+237,Cindy Adams,jmcmahon@gmail.com,61,North Thomas,CA,2024-12-25,258.14,15,Débito,5,True
+238,Christopher Smith,heathconnie@hotmail.com,50,Port Larryburgh,MS,2024-10-13,2337.77,14,Débito,5,False
+239,Brenda Buchanan,christophersaunders@hotmail.com,29,West Kelly,NJ,2025-02-09,4141.51,13,Pix,5,True
+240,Tracy Sanders,tharvey@yahoo.com,58,Maryport,OR,2024-04-10,3376.17,15,Débito,3,True
+241,Jody Morgan,mooretiffany@hotmail.com,38,East Brittany,MS,2025-01-15,2775.0,9,Débito,4,True
+242,Stephen Norton,lnoble@gmail.com,28,East Sabrina,ND,2024-07-03,2985.18,14,Débito,1,True
+243,Jesus Nguyen,ruizjennifer@hotmail.com,61,North Glendaland,HI,2024-12-17,4492.75,10,Pix,5,True
+244,Andrew Wood,pharvey@yahoo.com,55,East Travisview,KY,2024-12-05,2917.88,15,Pix,3,False
+245,Joseph Lopez,cford@thomas.com,46,Port Carolynchester,DC,2024-04-15,2166.91,13,Pix,4,True
+246,Michael Fitzgerald,brendahendrix@hotmail.com,65,North Nicole,WA,2024-08-05,3544.46,6,Pix,4,True
+247,Scott Scott,thompsonadam@hotmail.com,58,Jonathanshire,MO,2024-09-09,1850.32,14,Débito,4,True
+248,Micheal Williams,aramirez@hotmail.com,20,Liborough,IA,2024-10-11,4867.27,12,Pix,1,True
+249,Andrea Murray,kevin00@gmail.com,45,Port Annafurt,NV,2024-04-17,4374.28,13,Boleto,1,True
+250,Amber Lamb,ptownsend@williams.info,37,West Dylanborough,CO,2024-12-20,867.6,10,Boleto,1,True
+251,Julia Wilson,adamsandrew@obrien-jones.com,43,Sanchezshire,OK,2024-11-08,3452.22,18,Crédito,2,False
+252,Brett Cannon,kgill@allen.net,41,Lake Stevenborough,OR,2024-09-14,266.95,9,Débito,3,True
+253,Thomas Alexander,solistracy@brewer.org,69,New Cynthia,WY,2025-03-01,4437.52,16,Crédito,3,True
+254,Jeffery Fischer,walshstephanie@tate-baker.com,64,New Randychester,ND,2024-06-20,4239.78,23,Pix,3,False
+255,Amanda White,lauren18@gmail.com,38,West Allisonland,MN,2024-07-31,2599.63,1,Crédito,4,False
+256,Carl Pitts DVM,jessica83@gregory.com,47,Johnsonburgh,GA,2025-01-01,725.67,13,Débito,5,True
+257,Jeffrey Hawkins,ericgomez@gmail.com,21,Lake Megan,ID,2024-06-24,3145.22,17,Débito,1,True
+258,Joshua Harris,gmcdowell@yahoo.com,53,Lake Jenniferfurt,NJ,2024-08-31,1272.75,19,Boleto,2,False
+259,Jeremy Jacobs,watsonraymond@ochoa.net,57,Swansonside,RI,2025-03-14,3191.27,20,Débito,1,True
+260,Debbie Hall,sarah95@goodwin.com,27,Brandyborough,ND,2025-01-02,3499.35,13,Crédito,2,True
+261,Richard Garcia,lauramurphy@moss.com,27,New Emilyshire,OR,2025-01-21,620.65,19,Débito,3,True
+262,Danielle Mitchell,steven16@gmail.com,59,Carpentermouth,MI,2024-08-23,2437.03,18,Débito,4,True
+263,Mary Harmon,rachel99@hotmail.com,41,Martinezshire,WY,2025-02-19,2969.41,12,Crédito,3,True
+264,Shannon Martinez,amywood@lowery-brown.biz,21,Michaelburgh,TN,2024-07-06,1342.77,16,Pix,5,True
+265,Bailey Mclaughlin,joshua02@yahoo.com,64,Port Andrewview,CA,2024-05-08,1084.95,22,Débito,1,False
+266,Michael Warner,jamescoleman@hotmail.com,44,Davidside,NM,2025-02-12,3225.49,23,Pix,4,False
+267,Connie Decker,gregorymontgomery@davis.biz,68,North Jenna,NV,2024-07-25,3827.64,18,Pix,2,True
+268,Joseph Leonard,jason99@mccarty.com,62,Waltersfort,PA,2025-01-29,1859.64,13,Débito,3,False
+269,Mark Mitchell,michaelparrish@yahoo.com,21,North Lynn,NH,2024-11-06,3573.6,9,Crédito,4,True
+270,Robert Tran,liroger@hotmail.com,49,West Matthew,RI,2024-09-14,2978.14,8,Pix,1,True
+271,Kevin Johnson,paul53@rosales.biz,27,West Toni,MO,2025-02-12,4067.01,12,Boleto,1,True
+272,James Daugherty,jennifer33@gmail.com,28,East Garyside,NE,2024-08-12,1099.95,8,Crédito,4,False
+273,Angela Hubbard,isaacwilliams@yahoo.com,45,Richardschester,MS,2024-11-21,4002.34,4,Débito,3,True
+274,Patricia Hudson,hartmanamy@diaz.com,63,Johnsontown,AZ,2024-09-11,1405.4,21,Débito,5,False
+275,Cindy Oconnor,xmorgan@yahoo.com,25,New David,WV,2024-10-24,1561.5,10,Débito,3,True
+276,Olivia Gomez,crodgers@hotmail.com,57,Hudsonmouth,LA,2024-11-07,4893.04,23,Débito,4,True
+277,Lori Lester,itaylor@gomez.com,39,Loritown,AR,2024-11-25,325.47,10,Débito,4,True
+278,Roy Fox,elizabeth14@yahoo.com,51,New Robert,ME,2024-06-20,1029.79,23,Boleto,4,True
+279,Jesus Smith,halemonique@sawyer.info,62,Kellyview,MN,2025-03-07,2652.29,21,Débito,5,True
+280,Matthew Guerrero,charlesclark@stuart.com,52,Pratthaven,MA,2024-11-18,1942.37,12,Crédito,4,True
+281,Troy Castillo MD,heather05@brown.biz,52,South Ryan,ID,2024-04-02,1286.29,18,Débito,2,False
+282,Deanna Munoz,ialvarez@newman.info,42,Jessicafurt,FL,2024-09-06,3454.31,19,Boleto,3,True
+283,Samantha Floyd,tapiaalicia@hotmail.com,51,Jamesville,OK,2024-07-01,3379.26,17,Pix,1,False
+284,Anthony Johnson,igarcia@andrews-rocha.org,23,South Edward,MT,2024-09-14,4822.33,1,Pix,5,True
+285,Tonya Cooper,kaneamanda@hotmail.com,58,East Kayla,CA,2024-08-08,4405.14,8,Débito,1,True
+286,Nicholas Barrett,brookemurray@chavez.net,54,South Calvin,HI,2024-08-23,4987.44,23,Boleto,3,True
+287,Michael Torres,ygilmore@roberson-walton.info,18,South Richardburgh,NV,2024-06-27,1878.15,19,Crédito,4,True
+288,Joshua Oconnor,wolfbarbara@hotmail.com,29,Cooleyberg,VT,2024-06-23,321.65,12,Débito,3,True
+289,Alex Burton,ewashington@coleman-hines.com,52,East Jessica,AZ,2024-09-23,1693.95,13,Débito,5,True
+290,Andrew Perez,patrick39@johnson.org,23,North Williamside,MD,2024-03-24,2534.88,14,Débito,3,True
+291,Andrea Brown,heatherfloyd@hotmail.com,34,North Kelly,NH,2024-07-03,943.76,9,Débito,4,True
+292,Jenny Stafford,nharrell@barajas.biz,26,Sandratown,WY,2024-07-20,516.87,9,Crédito,5,False
+293,Jeffrey Howard,jensenmike@hernandez-roman.biz,19,Emilyburgh,MI,2024-06-16,2318.37,19,Boleto,5,False
+294,Gary Hatfield,bakermichael@yahoo.com,35,Jessicachester,AR,2024-05-31,4670.06,18,Boleto,5,True
+295,Janet Ortiz,lisa64@gmail.com,66,Adambury,DC,2024-11-27,3839.51,11,Pix,5,False
+296,Joseph Fitzgerald,frichardson@smith-valencia.biz,53,Martinmouth,WV,2024-07-22,1626.28,13,Pix,4,True
+297,Julie Williams,prollins@barry.com,45,South Andreafort,KS,2024-05-19,4454.22,3,Pix,4,True
+298,Jennifer Myers,clarkkenneth@turner.com,58,West Martinfort,WI,2024-11-30,3516.64,12,Pix,5,True
+299,Charles Melton,barbaraschroeder@walsh-carter.com,54,Tanyatown,KY,2025-02-16,2370.39,24,Pix,2,False
+300,Morgan Hernandez,ismith@davidson-jones.com,66,North Jamie,MD,2024-08-30,1396.64,7,Pix,3,False
+301,Ryan Hoover,james82@hotmail.com,43,Port Jasmin,TN,2024-07-20,2920.12,15,Crédito,5,True
+302,Alex Drake,derek56@hotmail.com,21,West William,NV,2024-06-02,1055.01,15,Débito,5,False
+303,Richard Sutton,shannon62@hotmail.com,57,Brownview,MA,2024-04-15,3732.04,23,Crédito,5,False
+304,Blake Pennington,josephbarnes@yahoo.com,53,Guerrafort,FL,2024-09-09,4690.95,19,Crédito,3,True
+305,Lisa Ellis,cooperlatasha@yahoo.com,68,Brandtport,OR,2024-09-30,3330.41,12,Crédito,2,True
+306,Lance King,morrismichael@hotmail.com,48,New Jonathanstad,ME,2025-02-19,3652.47,2,Boleto,3,False
+307,Morgan Johnson,boltonmarie@hotmail.com,47,Port Alejandra,WI,2024-12-25,905.99,15,Crédito,1,True
+308,Amanda Davis,cindy57@gmail.com,67,Thompsonmouth,WI,2024-08-28,3766.3,6,Boleto,1,True
+309,Chris Young,abeltran@hotmail.com,51,Jessicaside,KY,2024-09-22,2537.05,7,Crédito,1,True
+310,Nicolas Sullivan,oweaver@gomez.org,36,Juliastad,KS,2024-04-09,528.18,16,Crédito,4,True
+311,Johnathan Long,trobinson@gmail.com,35,Crystalberg,VA,2024-12-18,1993.59,13,Boleto,2,True
+312,Steven Pierce,cassiehutchinson@hotmail.com,47,New Aaronfurt,MA,2024-07-04,3674.3,10,Débito,3,False
+313,Patricia Duncan,dwilson@flores-williams.com,38,South Annehaven,NH,2025-01-08,2933.23,4,Crédito,3,False
+314,Michael Bryant,rwright@navarro.com,20,Reyesfurt,CO,2024-10-24,1601.27,10,Crédito,5,True
+315,Jennifer Crawford,shellystevenson@holder.com,23,New Marcus,NV,2024-11-29,4944.87,21,Pix,5,False
+316,Patrick Johnson,edward63@poole.com,55,Smithmouth,OH,2024-10-24,2912.76,3,Pix,5,False
+317,Lauren Parsons,toddturner@gmail.com,30,Codymouth,OK,2024-06-09,4730.25,2,Débito,4,False
+318,Michael Clark,jeffery05@meza.com,62,Ericksonmouth,FL,2024-03-23,2842.89,7,Boleto,5,True
+319,Gina Good,rhill@hotmail.com,20,Andrewville,MA,2024-04-03,2866.87,15,Crédito,5,True
+320,Christine Knight,escobarmark@yahoo.com,65,Kellymouth,KY,2024-07-17,350.74,17,Pix,4,False
+321,Warren Middleton,nicholskiara@gmail.com,45,Mariahaven,WV,2025-02-08,609.99,19,Crédito,3,False
+322,Michelle Maldonado,zrose@yahoo.com,39,West Ashleyside,UT,2024-05-21,3110.75,14,Pix,5,True
+323,Thomas Lam,lisajones@scott.com,57,Johnsonside,AL,2024-07-15,3685.01,23,Boleto,3,True
+324,Paul Smith,vhansen@gmail.com,57,East Michael,SC,2024-12-25,1295.76,15,Boleto,3,True
+325,Krystal Farley,schroederamy@yahoo.com,29,North Brandonview,ID,2024-05-09,4823.48,4,Pix,3,True
+326,Mario Morris,lortega@hansen.com,40,Gutierrezhaven,CT,2024-12-24,3732.07,24,Pix,3,False
+327,Lindsay Archer,deborah77@gmail.com,48,West Andrew,VA,2024-12-03,1266.26,6,Pix,4,True
+328,Charles Williams,xkramer@gmail.com,35,South Michael,RI,2025-02-25,3257.66,14,Crédito,4,True
+329,Timothy Fry,katherine72@hill.info,24,South Matthew,OK,2024-10-12,1764.81,11,Boleto,4,False
+330,Dr. Robert Osborne,ernestjones@gmail.com,25,Lake Jeanette,NJ,2024-05-19,3664.66,19,Débito,1,False
+331,Chelsea Dunn,zjohnson@gomez.com,36,Lake Marybury,ND,2024-10-21,2964.5,23,Pix,2,True
+332,Travis Thompson,mhiggins@hotmail.com,46,West Kristenberg,MT,2024-09-24,3807.6,7,Pix,3,True
+333,Matthew Moore,bmccarty@ryan-wilson.net,61,Kingside,NH,2024-10-05,1332.17,11,Débito,2,False
+334,Jonathan Hogan,austinnathan@hotmail.com,37,Kathrynville,NV,2024-08-04,4668.25,12,Crédito,4,False
+335,Nicole Baker,elizabeth25@walker-poole.net,67,South Ryan,MO,2024-06-13,4965.71,2,Pix,2,True
+336,Jeffrey Ewing,sandra97@bryant.org,59,Webermouth,NV,2024-11-06,906.21,10,Débito,2,True
+337,Theresa Medina,mpatterson@gmail.com,47,South Melissamouth,AZ,2024-10-03,2613.24,17,Crédito,3,True
+338,Wanda Lee,frankbrad@gmail.com,64,Port Melissachester,NY,2024-03-30,4331.03,16,Crédito,3,True
+339,Rebecca Kirk,martinjason@rodriguez.net,39,Port Hayden,NH,2024-05-11,1803.72,18,Boleto,4,True
+340,Brittney Guerrero,nicholaswilson@palmer-perez.info,27,Ryanborough,ME,2024-09-23,1288.92,20,Boleto,5,True
+341,Kristine Ward,rodriguezalicia@booker.com,43,South Kevinchester,NY,2025-02-07,3682.22,20,Crédito,1,True
+342,Kristina Jenkins,benderhector@carpenter-durham.com,68,Lake Michelle,OR,2024-03-21,4889.84,2,Crédito,3,True
+343,Regina Perez,mary99@gmail.com,50,East Maryville,RI,2024-10-23,2568.36,20,Crédito,5,False
+344,Joseph Pugh,kathryn72@yahoo.com,45,New Michaelmouth,NJ,2024-03-21,2022.91,5,Pix,3,False
+345,Lynn Burton,davidoliver@wells-brown.com,27,West Rebecca,RI,2024-06-20,2020.47,4,Pix,3,True
+346,Nicholas Wright PhD,corey06@hernandez.com,46,West Davidshire,IL,2025-01-22,3993.08,10,Crédito,2,True
+347,Tony House,raynicholas@kennedy.com,61,Feliciaborough,CO,2025-02-01,3559.7,10,Débito,4,True
+348,Jerome Manning,brivera@hotmail.com,35,Brentport,KY,2025-03-03,1662.69,14,Crédito,1,True
+349,Jordan Roman,watkinsthomas@steele.net,59,Patriciashire,MA,2025-03-05,4875.48,22,Pix,3,True
+350,Tina Martin,john35@hunter.com,18,South Robertfort,CO,2024-12-18,4468.74,7,Débito,4,True
+351,Tanya Walters,sharonlopez@weber.com,40,Brittanyview,NM,2024-04-04,3534.55,11,Pix,4,True
+352,Dawn Macias,laurieharper@nichols.com,34,New Frankport,NC,2024-11-03,2259.81,12,Pix,3,True
+353,Lisa Davis,ohayes@davis.com,60,East Angelahaven,GA,2024-12-02,1115.75,6,Débito,4,False
+354,Adam King,charlesgreen@yahoo.com,54,South Gary,WY,2024-12-08,3358.33,6,Crédito,4,True
+355,Jasmine Rowe,deanrodriguez@gmail.com,48,Mcintoshberg,WI,2025-03-11,3794.06,9,Crédito,4,True
+356,Jean Beard,johnny01@stephens.com,42,New Scottside,AZ,2024-09-05,3059.98,21,Pix,3,True
+357,John Gallegos,rodriguezjames@wagner.info,21,Georgetown,TX,2024-12-11,2528.52,16,Débito,3,False
+358,Michael Murphy,hancockroger@gmail.com,69,Lake Maryfurt,KS,2024-10-23,678.4,15,Débito,2,False
+359,John Boyd,knewman@anderson.biz,26,Pattonview,NY,2024-04-15,3945.18,22,Pix,3,True
+360,Keith Reed,michelleknapp@yahoo.com,45,Howardshire,IN,2024-07-26,2508.8,1,Débito,3,False
+361,Connor Rodriguez,dli@dickson-fleming.info,47,West Paulborough,NC,2024-11-25,4285.16,4,Pix,2,False
+362,Amanda Hebert,james20@mckenzie-parrish.com,64,Hollytown,ND,2024-08-19,760.61,2,Débito,2,False
+363,Theresa Edwards,ashley23@hotmail.com,41,Maxwellborough,ID,2024-04-15,4828.94,15,Crédito,3,False
+364,Victoria Hubbard,twilson@griffin.com,50,West Edward,IL,2024-07-21,2506.89,7,Pix,4,False
+365,Michael Larson,warnermichael@hotmail.com,37,Davisfurt,WA,2024-05-19,454.52,23,Boleto,4,True
+366,Eric Brown,wheelerrachel@hernandez.com,26,Mercadofurt,FL,2024-05-11,1472.56,4,Débito,5,True
+367,Cesar Castillo,mcleanlorraine@gmail.com,25,Bergchester,FL,2024-11-28,4522.64,5,Débito,3,True
+368,Pamela Williams,matthew97@patel.org,41,Billyburgh,NY,2024-10-29,1736.69,6,Boleto,5,False
+369,Amanda Peters,nroberts@gmail.com,31,Singletonville,IL,2024-12-10,4853.38,9,Débito,5,False
+370,Lynn Herring,michael52@lee-brown.com,35,Levineshire,NC,2025-02-21,2276.19,19,Pix,3,False
+371,Kevin Miller,meganhernandez@gmail.com,18,East Randall,NC,2024-04-02,1898.53,10,Débito,3,True
+372,Robin Harris,john09@gmail.com,29,Baldwintown,IA,2024-08-26,3969.87,4,Débito,3,True
+373,Michael King,martharoberson@hotmail.com,46,South Amber,NM,2024-11-01,2388.89,3,Débito,2,True
+374,Timothy Lutz,destiny81@hotmail.com,54,West Kathrynton,MI,2024-09-03,470.28,10,Boleto,3,True
+375,Steven Tran,josephjohnson@yahoo.com,43,Jenniferton,CT,2025-02-24,4161.32,14,Pix,5,False
+376,Kevin May,jesus45@hotmail.com,50,Carneyshire,CT,2025-02-25,3973.27,18,Pix,5,True
+377,Peter Meyers,nichole71@hotmail.com,60,Ambermouth,PA,2024-11-20,2623.47,18,Boleto,4,True
+378,Matthew Bryant,pgonzalez@cohen.com,32,New Lauraton,OK,2024-10-04,147.45,11,Boleto,2,True
+379,Jimmy Moore,debra87@hotmail.com,40,Davismouth,PA,2024-11-25,768.15,9,Crédito,1,True
+380,Matthew Alvarez,iclark@yahoo.com,46,Port Donna,VT,2025-03-02,3588.75,14,Pix,2,True
+381,Kimberly Hoover,mclaughlinchristina@yahoo.com,38,New Deannahaven,NC,2024-06-13,2995.2,11,Pix,3,True
+382,Robert Miller,johnsoncharles@lyons.com,36,Warrenshire,IN,2025-01-17,3530.22,7,Pix,5,True
+383,Harold Hayes,webbjennifer@ibarra-brown.net,22,Gonzalezbury,CT,2024-11-25,1868.58,11,Crédito,2,False
+384,Kayla Archer,christine28@gmail.com,40,West Justinfurt,AZ,2024-03-29,3183.95,4,Crédito,4,True
+385,Barbara Stewart,pknight@perez.com,53,Cookfurt,TX,2024-05-17,2230.65,16,Débito,4,True
+386,Nicholas Smith,douglas67@gmail.com,37,Port Robertport,WY,2024-10-17,2127.62,19,Boleto,2,True
+387,Cheryl Gutierrez,jerrybrooks@hotmail.com,25,Masseyborough,MT,2025-02-08,2133.66,3,Boleto,4,True
+388,Eric Price,barajasstephanie@yahoo.com,26,New Lindaview,CT,2024-09-12,257.07,5,Pix,1,True
+389,Randall Dawson,barry38@green-miller.com,31,Charlesborough,AK,2024-06-21,398.88,11,Débito,1,True
+390,Russell Jones,monica48@gmail.com,23,Brownfurt,WY,2025-02-01,4261.66,8,Débito,5,True
+391,Henry Winters,jeffreymedina@watson.com,18,Waltertown,AR,2024-07-05,3508.08,19,Débito,3,True
+392,Megan Hart,michellepalmer@gmail.com,26,Chavezbury,MI,2024-03-30,1229.02,13,Pix,5,True
+393,Jennifer Johnson,keith41@hotmail.com,33,Lake Garretthaven,NC,2025-02-11,678.82,21,Pix,2,True
+394,Cheryl Hughes,noblebrenda@perez.com,33,New Jason,TN,2024-11-07,299.48,21,Crédito,5,True
+395,Caleb Bell,sandra22@tucker.org,29,Williamfort,KS,2024-12-05,2450.57,12,Boleto,4,True
+396,Luis Valdez,erikapineda@hotmail.com,22,North James,CA,2024-07-28,2981.04,13,Crédito,3,True
+397,Jesus Spencer,mcbridemary@gmail.com,57,Lake Nathan,IN,2024-08-06,4499.98,18,Débito,4,True
+398,Kathleen Miller,zachary47@lee-clark.info,46,Port Wesley,KS,2024-07-16,4609.33,6,Débito,5,True
+399,Scott Gibbs,williamfarmer@yahoo.com,63,Tammyberg,SD,2024-10-09,1894.6,20,Boleto,3,True
+400,Deborah Wong,michaelparker@hotmail.com,44,West Veronicaside,NC,2024-11-12,4661.11,8,Pix,3,True
+401,Ronald Cook,abennett@clark.net,28,Keithville,MO,2024-11-03,2774.32,5,Crédito,4,True
+402,Kaitlin Johnson,dray@howell-mayer.com,64,Calderonmouth,NC,2024-06-23,2913.05,11,Boleto,4,False
+403,Lori Mitchell,patricia10@cook-johnson.com,67,Valenzuelashire,CT,2024-07-27,975.31,19,Débito,3,False
+404,James Moore,grayjillian@gmail.com,45,Lake Kelseyfurt,VT,2024-09-30,667.72,1,Débito,1,True
+405,Bridget Thompson,mistyramos@edwards-hayes.com,69,Davidview,TN,2024-05-28,1297.44,12,Boleto,3,True
+406,Margaret Sanchez,shawn12@mercer-wright.net,53,Lake Hannahhaven,SD,2024-04-25,709.02,10,Crédito,3,True
+407,Lori Dougherty,vvelazquez@gmail.com,59,Port Caseymouth,SD,2024-10-19,1194.13,19,Pix,1,True
+408,Dr. Michael Williams,jsmith@gmail.com,36,Port Patrick,DC,2024-04-06,2745.09,14,Débito,3,True
+409,Douglas Jackson,nicole32@yahoo.com,52,Taylorstad,NV,2024-12-09,4354.45,19,Pix,4,False
+410,Darrell Johns,michellecampos@hotmail.com,69,South Gabriel,MA,2025-01-07,3995.44,13,Débito,5,False
+411,Shawn Taylor,amyhuff@foster.com,48,Kelseytown,MI,2024-07-18,258.55,10,Pix,4,True
+412,Alexis Conrad,opark@gmail.com,61,Nicholasside,MD,2024-12-24,3522.93,23,Débito,3,True
+413,James Solis,uoliver@yahoo.com,36,North Lisa,MT,2025-03-12,329.28,9,Débito,3,True
+414,Mrs. Samantha Hicks MD,davisedward@gmail.com,63,Myerstown,KY,2024-10-01,4990.32,2,Boleto,2,True
+415,Ashley Carr,brianlopez@hotmail.com,41,West Nancy,MS,2025-01-17,3942.16,18,Débito,5,False
+416,Megan James,anthonylopez@hotmail.com,19,Cruzmouth,NE,2024-10-27,1233.77,18,Pix,4,False
+417,Jeffrey Mcintyre,michael74@cunningham-morris.com,24,Jeffreyfort,NC,2024-06-13,2501.54,16,Crédito,3,True
+418,David Taylor,norristracy@hotmail.com,60,Krystalshire,OH,2024-09-14,3746.1,17,Boleto,3,False
+419,Kim Jones,kristen11@hotmail.com,66,Iantown,MI,2024-09-07,4215.05,18,Pix,2,False
+420,Matthew Church,amandarichardson@johnson.com,48,Lake Patriciaview,MN,2024-10-19,1221.4,8,Boleto,3,False
+421,Jeffrey Ruiz,ucruz@yahoo.com,34,North Whitney,WY,2024-10-24,756.35,17,Pix,3,False
+422,James Brewer,joshuacowan@gutierrez-atkins.com,44,Hudsonburgh,TX,2024-05-10,4662.28,23,Boleto,1,True
+423,Kevin Houston,joycelawrence@collier.com,53,New Laura,IL,2024-03-30,3386.73,6,Pix,4,False
+424,Dr. Jacqueline Johnson DDS,dianalloyd@hotmail.com,67,Lake Keithview,FL,2024-10-12,4393.8,10,Débito,5,True
+425,David Williams,dillonwest@montoya-montoya.com,60,Lake Michael,WA,2025-01-14,1238.68,15,Boleto,3,True
+426,Robert Maynard,julie65@murphy.com,27,East Barbara,NH,2025-02-18,730.61,13,Débito,3,True
+427,Shawn Williams,ethomas@hall.info,62,South Sheila,NH,2025-01-02,1816.59,22,Boleto,5,True
+428,Alyssa Fisher,wallacejennifer@hotmail.com,31,Lindashire,WY,2025-03-10,1338.23,23,Boleto,4,False
+429,Jenna Middleton,mmiller@wilkins.biz,24,Castillostad,NY,2024-07-17,456.5,15,Pix,4,True
+430,Lindsey Martin,bradleystafford@yahoo.com,56,Alvarezville,SC,2024-05-28,3257.95,14,Pix,3,True
+431,Jason Lawrence,jeffreyhall@hotmail.com,57,Lauraville,MA,2025-01-21,1330.94,2,Débito,3,True
+432,Diane Gordon DVM,stephanieestrada@hotmail.com,26,Brandonville,PA,2024-05-05,2306.1,5,Boleto,4,True
+433,Mark Miranda,irwinadam@wilson.com,31,North Natalieland,AR,2024-08-29,1512.67,6,Crédito,4,True
+434,Nicole Gonzalez,matthewrose@miller-lawrence.com,25,Murphyhaven,HI,2024-09-11,4613.84,13,Débito,5,True
+435,Cassandra Silva,dixonbrett@gmail.com,34,Thomasmouth,FL,2024-09-05,2306.02,10,Boleto,4,True
+436,Mark Carter,jennifer21@yahoo.com,40,Allenchester,AR,2024-04-17,4411.3,13,Boleto,3,True
+437,Michael Adams,george63@hotmail.com,33,Williamsberg,UT,2025-02-20,315.68,1,Boleto,5,True
+438,Hannah Anderson,martinezerik@schmitt.net,43,Hansonborough,MN,2024-05-08,2725.43,6,Débito,2,False
+439,Carol Jordan,espinozastacey@smith.com,26,Amyview,MT,2024-07-17,2318.38,23,Pix,3,False
+440,Billy Page,milleralexandra@gmail.com,53,South Michael,SD,2024-05-12,1697.98,10,Boleto,3,True
+441,Paula Gardner,ronald60@hotmail.com,24,Perryside,WV,2025-01-18,1570.93,2,Pix,3,False
+442,Caroline Clark,robert57@hotmail.com,35,Lake Tanyaside,MD,2024-04-14,1407.26,18,Débito,4,True
+443,Joseph Fuentes,camachotrevor@gmail.com,25,Harrisonshire,SC,2024-12-29,1077.69,20,Pix,2,True
+444,Stephen Fitzgerald,clarkjeremy@stone.com,38,West Carrie,FL,2024-11-22,2513.9,2,Débito,5,True
+445,Frances Wilson,linda77@hotmail.com,43,North Theresa,NY,2024-06-07,1791.18,11,Crédito,4,False
+446,Sarah Ortiz,jamesflowers@hotmail.com,20,South Chelsea,MD,2024-11-14,1719.94,7,Pix,3,True
+447,Stephanie Peterson,judith43@grant.net,34,New Jonathan,CT,2024-07-12,424.42,17,Crédito,2,True
+448,Evelyn Neal,davidmiller@gmail.com,68,Rickystad,DE,2025-03-13,167.94,8,Débito,4,True
+449,Victoria Manning,andersoncarl@gmail.com,63,Aaronview,DC,2024-05-21,4567.12,7,Crédito,3,True
+450,Spencer Riddle,wilsonnicholas@torres.org,41,Schmittland,OK,2024-04-07,2127.42,12,Pix,4,False
+451,Travis Hunt,frederickarmstrong@pitts-gilmore.org,42,Aaronmouth,OH,2024-11-13,3417.52,21,Crédito,5,True
+452,Whitney Hess,gleach@wilson.info,22,Aaronside,TX,2024-12-24,2316.75,10,Pix,2,True
+453,Brittany Smith,guzmankenneth@green.info,54,North Jessicaview,AK,2024-06-26,1083.12,19,Crédito,1,True
+454,Michele Walls,nicole98@mccullough-turner.info,62,Huangmouth,WA,2024-05-10,4654.43,20,Pix,2,True
+455,Melissa Holland,zrodriguez@martinez.org,67,Hollowaymouth,AZ,2025-03-14,701.04,11,Débito,4,True
+456,Matthew Holden,masoncarlos@russell.biz,41,North Samantha,CT,2024-09-12,2458.74,7,Crédito,2,True
+457,Michael Mendez,camachorachel@salas-nelson.org,48,Rogersside,NV,2024-06-07,549.47,7,Crédito,3,False
+458,Ricky Smith,oriley@gmail.com,43,Michaelhaven,AZ,2024-12-22,1223.45,3,Boleto,2,True
+459,Ruth Castillo,thompsonlonnie@diaz.com,38,Ashleyhaven,WV,2024-06-24,3458.53,18,Crédito,4,True
+460,Jesse Silva,kellyerika@yahoo.com,51,North Stephen,KY,2024-11-23,2679.42,11,Boleto,1,True
+461,John Rowe,mhudson@hotmail.com,55,Jeffreyborough,MS,2025-01-08,2795.27,8,Pix,1,True
+462,Kristina Wilcox,justinfields@wolf.com,41,Morrisshire,GA,2024-12-21,4177.97,9,Boleto,4,False
+463,Scott Mccall,ryan69@jimenez.com,45,Williamsmouth,WA,2024-11-12,397.81,9,Crédito,5,True
+464,Ronald Atkinson,molinaemma@davis-harmon.com,47,Gomezport,KY,2024-04-17,4533.65,5,Crédito,4,True
+465,Kelly Franklin,jennifer63@yahoo.com,51,Berrymouth,OK,2024-09-03,3291.02,3,Boleto,1,False
+466,Michael Sullivan,garciawilliam@sosa.com,69,North Annaview,CA,2024-10-10,3240.45,17,Pix,4,True
+467,Chad Price,tanya55@gmail.com,69,Nelsonland,GA,2024-03-21,248.02,12,Pix,1,True
+468,Krystal Hendricks,christopher54@hotmail.com,40,East Martha,IA,2024-12-28,4559.36,4,Boleto,2,True
+469,Angie Chapman,robertfoster@hotmail.com,25,Haroldside,NJ,2025-01-23,237.11,1,Crédito,3,True
+470,Jonathon Gibson,racheladams@zamora.com,59,Mariaborough,NM,2025-01-18,1008.7,6,Crédito,4,False
+471,Brian Whitaker,allenmathew@garrett.com,67,Lake Jessicaview,SC,2024-07-28,4489.96,24,Pix,3,True
+472,Matthew Kennedy Jr.,shelleyrobinson@yahoo.com,27,Bowenton,DE,2024-03-21,720.97,8,Crédito,4,True
+473,Caitlin Phelps,bakertaylor@norton-cox.org,18,Geraldside,MO,2024-10-14,2050.14,13,Crédito,4,False
+474,Briana Jones,schroederdavid@miller-daniels.com,37,Fieldsbury,MD,2024-07-04,3824.24,21,Boleto,5,True
+475,James Benton,pperry@hill-nelson.com,54,Johnsonburgh,VT,2024-07-22,2858.44,12,Boleto,5,False
+476,Deborah Hall,jeff46@morgan-cross.com,35,Danielside,MS,2024-06-02,3679.34,13,Débito,4,False
+477,Charles Cain,stephenperkins@johnson-clarke.com,38,Nicholastown,MI,2024-12-17,1044.95,19,Boleto,1,True
+478,Sean Morrow,donna94@hotmail.com,66,East Jeffreyton,MN,2025-03-03,2119.06,16,Débito,3,True
+479,Justin Smith,dianesmith@yahoo.com,21,Walterchester,NJ,2025-03-14,2542.1,22,Boleto,4,True
+480,Kristin Campos,alexanderpamela@barry.info,60,Lake Williamville,NC,2024-09-30,1293.76,13,Boleto,3,True
+481,Michael Velazquez MD,marshalljennifer@hill.info,19,Brendaburgh,AR,2024-07-16,4989.8,13,Crédito,5,True
+482,Grace Davis,wongvictoria@hotmail.com,38,North Bryan,AR,2024-12-24,3388.47,16,Débito,2,True
+483,Darrell Roberson,tyler75@hotmail.com,54,Fitzpatrickton,KS,2025-03-01,4430.52,18,Débito,2,False
+484,Danny Simpson,wilsonsydney@gmail.com,22,Denisechester,LA,2025-02-04,2025.54,8,Pix,5,True
+485,Katrina Peterson,ljones@yahoo.com,34,Port James,MT,2025-03-08,4631.72,16,Boleto,4,True
+486,Kenneth Perez,donaldpope@jenkins.com,66,Brayhaven,MO,2024-08-24,1332.97,24,Boleto,4,True
+487,James Chang,timothyjackson@moore-davis.com,65,Dianefort,CT,2024-08-14,873.63,2,Crédito,4,True
+488,Timothy Newton,bergdanny@yahoo.com,28,South Lisafurt,OH,2024-11-25,3955.61,6,Crédito,2,False
+489,Dr. Ian Cruz,brendafrederick@gmail.com,63,Robertborough,WI,2024-09-11,4867.78,1,Débito,4,False
+490,Richard Morales,bmarquez@yahoo.com,58,Shelbyland,AK,2024-04-25,403.98,24,Débito,4,True
+491,Kaitlin Douglas,phillipsamber@yahoo.com,48,Turnerton,SD,2024-12-12,590.01,14,Crédito,3,True
+492,Thomas Reynolds,christopher34@yahoo.com,45,North Coleberg,RI,2024-04-09,1657.7,9,Pix,5,False
+493,James Miranda,lindseyrodriguez@henderson-evans.com,61,West Gregorybury,NM,2025-01-01,2677.16,21,Crédito,4,False
+494,Sharon Castillo MD,horntaylor@moss-patterson.com,49,Port Stephen,WI,2024-11-10,3550.93,22,Pix,4,True
+495,Gregory Sanchez,zhenderson@hotmail.com,38,Port Laurieport,WA,2024-06-30,4782.2,19,Crédito,5,True
+496,Tyler Porter,tkim@hotmail.com,24,Wrighthaven,GA,2024-12-18,677.32,17,Crédito,2,True
+497,James Price,gmitchell@white.com,27,Sharonfurt,IL,2025-03-21,1845.94,14,Pix,1,False
+498,Veronica Bray,stewartadam@gmail.com,45,Timothybury,AZ,2024-12-28,1404.79,9,Pix,4,False
+499,Lisa Lowe,adamsdenise@yahoo.com,65,South Blakeborough,RI,2024-03-24,4056.35,7,Pix,2,True
+500,Katelyn Edwards,jonathanthornton@harper.com,53,Jenniferfurt,NJ,2024-11-02,901.44,6,Boleto,2,True
+501,Anna Stewart,gonzalezcody@williams.com,37,Tanyafurt,MO,2025-03-02,4396.51,4,Boleto,3,True
+502,Crystal Ponce,xmoore@gmail.com,30,Ashleyville,KY,2024-09-11,3891.18,9,Pix,2,True
+503,Ms. Amanda Davis,dcruz@duran.info,36,Lake Sarabury,UT,2024-06-22,4430.71,13,Boleto,3,True
+504,Gabriel Wilson,glynch@crane.org,67,Smithborough,NY,2024-12-24,4848.92,14,Pix,1,False
+505,Helen Hall,sherri29@huang-hoover.org,28,Lake Joshua,AZ,2024-12-07,2909.88,17,Pix,3,True
+506,James Smith,zroberts@yahoo.com,52,West Davidstad,HI,2024-11-15,2346.22,24,Pix,4,True
+507,Larry Donovan,jennifermiller@hotmail.com,51,Lake Xavier,CO,2024-09-13,2476.65,19,Débito,5,False
+508,Patrick Gonzalez,nguyenkimberly@yahoo.com,61,West Susan,ID,2025-02-19,4488.01,11,Crédito,4,True
+509,Steven Mathis,kathleen81@gmail.com,21,Anthonyhaven,NY,2024-12-02,1122.55,9,Pix,2,True
+510,Christopher Young,margaret43@miller.com,30,Lake Vicki,MN,2025-03-09,1939.22,24,Boleto,4,True
+511,Janet Aguirre,christopher90@gmail.com,54,Rodriguezmouth,NM,2024-06-21,3241.55,23,Boleto,1,False
+512,James Cannon,christopheranderson@garner.com,19,Jillside,NM,2024-12-05,3608.56,17,Boleto,4,True
+513,Debra Aguilar,fchan@walker.com,67,Johnnyshire,NY,2024-08-11,376.22,22,Débito,4,True
+514,Samantha Byrd,john14@yahoo.com,18,North Regina,CA,2024-07-18,4892.95,19,Crédito,1,True
+515,Linda Davis,drobinson@martinez.net,57,Robertburgh,TN,2024-09-29,1724.11,11,Boleto,4,True
+516,Michelle Nelson,amandadiaz@davis.com,42,Hartmanville,KS,2025-03-07,1109.71,16,Crédito,4,True
+517,Lisa Hopkins,ewatson@ayers-joseph.com,54,West Cynthia,GA,2025-01-02,1605.15,7,Crédito,3,False
+518,Kenneth Keller,taustin@moore-conley.com,53,Stephaniestad,ME,2024-06-14,4925.39,5,Débito,5,True
+519,Jordan Martinez,pbrooks@hotmail.com,23,Cobbside,NY,2024-12-28,3376.03,16,Débito,3,True
+520,Thomas Martinez,isandoval@proctor-walton.com,24,New Amandaberg,AZ,2024-11-10,1301.86,1,Crédito,3,True
+521,Julie Gibson,stewartmatthew@jacobs.com,21,Jenniferfort,MO,2024-04-21,1085.37,4,Débito,2,True
+522,Jason Bennett,debbiewilliams@gmail.com,52,Lake Melissa,DE,2024-04-12,466.99,21,Débito,4,True
+523,Gabriela Short,steven63@anderson.net,58,East Micheleland,MN,2024-04-07,1879.75,16,Pix,2,False
+524,David Castillo,georgerichard@wall.org,51,Teresaside,FL,2024-07-31,4136.39,16,Boleto,3,True
+525,Allison Cummings,timosborne@hotmail.com,46,North Steventon,MI,2024-06-10,1449.58,2,Débito,4,True
+526,Jared Duran,steven57@washington.com,22,Danielleton,NC,2024-04-10,1905.61,19,Crédito,3,False
+527,Jeffrey King,dmurphy@gmail.com,44,Mccarthyhaven,MT,2024-06-05,3831.04,9,Crédito,4,True
+528,Darren Campbell,millerrobert@clark-rogers.com,50,Anthonybury,AL,2025-01-07,3510.14,10,Débito,5,True
+529,Linda Noble,okelley@yahoo.com,63,Port Crystalside,SD,2024-08-31,2120.92,9,Débito,1,True
+530,Kelly Miller,bwashington@gonzalez-gonzalez.com,69,East Matthewstad,WY,2024-09-29,905.16,8,Crédito,3,True
+531,Joseph Nunez,washingtoncarly@thompson-livingston.com,27,Lake Alicia,ID,2024-04-08,4479.49,16,Boleto,5,True
+532,Brittney Johnson,eharper@long.com,23,Wilkinsmouth,SD,2024-04-21,2917.8,10,Crédito,4,False
+533,Renee Cannon,deanna54@gmail.com,51,New Stephenmouth,VT,2024-12-14,1358.16,20,Débito,5,False
+534,Michael Jenkins,kellerarthur@yahoo.com,25,East Jenniferburgh,TN,2024-03-26,1260.27,23,Débito,5,True
+535,James Cobb,lknight@saunders.net,48,East Christine,GA,2024-07-17,2297.09,4,Pix,5,False
+536,Tonya Barron,grace72@nelson.com,26,East Matthew,FL,2024-05-15,2075.42,24,Crédito,3,True
+537,Kelly Ramsey,christophercole@santos-thomas.com,38,Cameronton,AL,2024-05-11,437.51,15,Débito,1,True
+538,Thomas Marquez,sextonjonathan@herman.info,25,West Robert,IL,2024-08-09,4721.4,24,Boleto,5,True
+539,Jessica Schultz,pamela16@yahoo.com,21,Lake Davidchester,CA,2024-12-18,3956.08,3,Débito,2,False
+540,Stephanie Duncan,wpeterson@yahoo.com,39,Taylorside,UT,2024-12-12,2533.09,24,Débito,2,False
+541,Jeremy Sanchez,ebony73@williams.com,45,Coryton,NJ,2025-01-22,1701.82,12,Crédito,4,True
+542,Sarah Peters,rhonda30@gmail.com,62,Masseyport,SD,2024-11-16,989.23,21,Pix,4,True
+543,Andrew Anderson,sabrinasullivan@yahoo.com,21,Port Justin,CT,2024-11-20,914.82,4,Boleto,5,True
+544,Michael Walker,barbersusan@gmail.com,56,South Danielhaven,SD,2025-01-22,1278.4,15,Débito,4,False
+545,Shannon Todd,madeline59@gmail.com,38,New Maryville,OK,2024-04-21,1180.59,1,Pix,3,True
+546,Matthew Mcneil,andrew25@meyer.com,25,East Cynthia,NE,2025-01-14,3577.53,3,Crédito,2,False
+547,Gina Jennings,melody65@yahoo.com,37,Evansport,VA,2024-05-02,3871.21,11,Boleto,5,True
+548,Justin Kelly,ocarter@hotmail.com,49,South Bryanmouth,SD,2024-07-26,1881.06,6,Boleto,1,True
+549,Jeffrey Alvarado,megan57@orozco.info,18,Johnsonberg,ID,2024-11-28,881.03,5,Pix,5,True
+550,Julie Thomas,jason14@dunn-peterson.com,23,Ashleyview,VA,2024-12-29,3259.2,19,Pix,3,True
+551,Nicole Finley,timothy93@beck-baker.com,45,New William,OH,2024-10-31,1730.87,24,Pix,5,False
+552,John Fernandez,michelle08@hotmail.com,61,Manuelberg,IL,2024-08-02,4668.02,11,Crédito,5,True
+553,Michele Smith,rallen@schaefer.biz,48,Kimberlyside,RI,2024-12-07,3964.44,4,Crédito,4,True
+554,Scott Richards,jeremymalone@lang.com,27,Jillianburgh,NH,2024-12-28,4940.02,8,Boleto,1,False
+555,Jennifer Clark,laura26@rodriguez.com,37,Lake Tracy,MS,2024-04-19,4448.08,4,Boleto,4,False
+556,Zachary Taylor,staceyrichardson@fox.com,25,Jacksonview,MI,2024-04-19,126.04,2,Débito,4,True
+557,Katherine James,joshuapoole@santana.info,39,Johnsonhaven,TN,2024-10-19,395.64,21,Débito,3,True
+558,Angela Cordova,garzamadison@matthews.com,55,Jonesfurt,WI,2025-02-14,4501.14,6,Débito,4,True
+559,Adrian Barnes DDS,fergusonholly@norman-mccarthy.net,46,North Melissaborough,MS,2024-11-29,682.77,4,Pix,5,True
+560,Patrick Saunders,richardtaylor@yahoo.com,26,Bakerview,ID,2024-06-10,3018.36,15,Pix,2,True
+561,Walter Johnson,fjones@kennedy-larson.com,61,Weeksburgh,WY,2024-12-11,1838.62,3,Pix,3,False
+562,Kayla Hernandez,fitzpatrickmichelle@baker-williams.org,64,Harrisport,AR,2025-02-20,265.48,18,Crédito,1,True
+563,Kevin Ramirez,margaret76@ware.com,18,Beasleyhaven,CO,2024-06-24,506.09,15,Débito,4,True
+564,Colleen Cruz,paul45@carlson.com,58,North Lisa,MD,2025-01-20,3852.58,11,Boleto,1,True
+565,Gina Holloway,nelsonmichael@gmail.com,69,Diazfurt,MI,2024-09-06,4227.77,20,Crédito,5,True
+566,Brandon Moore,marywagner@yahoo.com,56,Kirkland,KS,2024-05-15,1879.8,5,Pix,4,True
+567,Kristy Brown,annerodriguez@yahoo.com,43,Amandahaven,CA,2024-04-04,1309.18,5,Boleto,3,True
+568,Karen Flores PhD,michelle47@patterson.net,28,West Tanner,SD,2024-07-08,2518.59,7,Débito,1,False
+569,Jeffrey Beck,toddanderson@yahoo.com,69,Meltonborough,AZ,2024-03-24,846.19,10,Crédito,5,False
+570,Pamela Mcclure,clarkcameron@yahoo.com,52,Crystalfurt,TX,2025-02-24,3123.01,10,Boleto,3,True
+571,Jeffrey Johnson,hsanders@yahoo.com,41,Allenberg,NE,2024-09-08,3723.59,4,Boleto,5,True
+572,James Cooper,douglas42@jackson.com,50,Port Ericafurt,WY,2024-04-23,3549.43,8,Débito,4,False
+573,Robert Lopez,amandalynch@yahoo.com,37,Collinsstad,IA,2024-08-31,4667.19,13,Débito,1,True
+574,Kimberly Morgan,zrose@carter-ramos.com,44,Romerobury,HI,2025-03-07,3048.4,5,Débito,4,False
+575,Candice Simpson,irodriguez@yahoo.com,32,Elizabethstad,MI,2024-12-20,3016.47,14,Pix,5,True
+576,Scott Rivera,nthompson@hotmail.com,50,Jamieland,WV,2024-11-02,3711.23,13,Pix,2,True
+577,Zachary Austin,pettymarisa@bailey.com,69,Christineland,UT,2024-10-02,3656.34,1,Débito,4,False
+578,Richard Jones,jeffreyrussell@hotmail.com,24,Jameston,OK,2024-03-27,1467.94,11,Boleto,2,True
+579,Kelly Callahan,birdalyssa@mason-bauer.info,51,Warrenstad,OK,2024-08-26,4006.54,15,Pix,3,True
+580,Karina Meyer,twilliams@yahoo.com,62,Thompsonburgh,NY,2025-02-13,4531.75,1,Boleto,2,True
+581,Hannah Grant,wilkinsmartha@yahoo.com,68,Kimberlybury,IA,2025-03-16,3919.1,1,Crédito,1,True
+582,Whitney Steele,diana76@hotmail.com,63,Smithland,IN,2025-02-13,4261.98,1,Crédito,5,True
+583,Jennifer Lynch,hutchinsoncharles@gmail.com,59,East Michele,WI,2024-11-27,4258.74,21,Crédito,5,False
+584,Hannah Adams,joshuarandall@ewing-medina.com,22,Farleymouth,OH,2024-05-30,1313.33,12,Pix,4,True
+585,Hannah Cooke,johndavis@yahoo.com,47,East Meghan,NV,2024-06-17,4152.55,6,Débito,2,False
+586,Cindy Clayton,kylewells@santiago.com,45,East Mathew,MI,2025-02-25,3623.01,6,Crédito,1,True
+587,Mrs. Mary Hammond,dustin67@morris-horn.com,35,Pagestad,MT,2024-07-25,1684.49,19,Crédito,3,True
+588,Robert Parker,paula92@russell.net,53,Kimberlyfurt,AK,2024-04-06,3405.95,11,Boleto,4,True
+589,Tiffany Johnson,scottmiller@hotmail.com,20,South Perry,DE,2024-08-12,3398.63,17,Pix,3,True
+590,Ebony Wilson,sgonzalez@hotmail.com,38,Hesterburgh,ND,2024-04-30,4031.54,24,Pix,4,True
+591,Veronica Hunt,kevinkeller@gmail.com,63,Port Benjaminview,NY,2024-10-17,100.3,18,Boleto,3,True
+592,Jerry Perry,dickersonvanessa@gmail.com,33,North Alejandro,KY,2024-04-29,3271.33,12,Pix,3,True
+593,Jennifer Miller,morgan18@hotmail.com,54,Careyfort,FL,2024-06-12,3397.16,10,Boleto,1,False
+594,Yesenia Thompson,cherrybrian@gmail.com,59,East Christina,LA,2024-07-30,2929.32,10,Débito,4,True
+595,Jeffrey Hale,leonjessica@gmail.com,22,Lake Justin,NV,2024-09-27,3909.15,13,Boleto,5,True
+596,Russell Little,brittneykim@yahoo.com,67,South Saraside,CT,2024-07-26,803.29,1,Débito,5,False
+597,Seth Stanley,dmcdaniel@hotmail.com,68,Wisechester,CA,2024-03-22,1576.41,8,Pix,4,False
+598,Joshua Krause,ramoserika@jones-crosby.net,31,Lake Christopher,IL,2024-05-16,3803.75,23,Crédito,2,True
+599,Michael Atkinson,ngarcia@gmail.com,48,Christinabury,AZ,2024-06-11,1780.31,14,Pix,3,True
+600,Brenda Harper,zmclean@benton-brown.org,63,New Marissa,CT,2024-07-14,3057.88,24,Crédito,3,True
+601,Jennifer Aguilar,harold74@webb.com,41,North Brianside,IN,2024-10-17,3144.82,17,Pix,1,True
+602,Erik Stokes,troymiles@yahoo.com,52,Alexandrachester,NH,2024-10-23,1563.21,12,Boleto,1,True
+603,Jerry Martinez MD,james53@hotmail.com,53,Dawsonberg,CA,2024-08-09,2358.46,21,Boleto,3,True
+604,Crystal Morton,tonyahays@jackson-barnes.org,27,West Maryview,WV,2024-10-02,3455.52,16,Débito,4,False
+605,David Parker,athompson@yahoo.com,44,Hernandezside,WA,2025-02-24,3890.93,13,Boleto,4,True
+606,Sue Horne,melvin95@burke-haynes.org,44,New Carmen,KY,2024-12-09,3271.37,6,Crédito,4,True
+607,Paul Fox,grayjamie@hotmail.com,40,Emilyside,DC,2024-06-29,1990.12,3,Boleto,5,False
+608,David Campbell,vbarrett@romero-hawkins.com,30,Wagnermouth,UT,2025-02-28,254.72,13,Débito,5,True
+609,John Zuniga,wrubio@gmail.com,33,Stricklandshire,AZ,2024-05-02,4514.94,12,Crédito,4,True
+610,Michael Dickerson,jessicamejia@anderson-lutz.com,52,Velasquezmouth,MN,2024-08-11,145.94,16,Crédito,1,True
+611,David Walker,nicholassavage@gmail.com,44,Matthewsville,OH,2024-03-25,601.71,22,Pix,5,True
+612,Charles Arnold,twood@yahoo.com,69,Hansontown,WI,2024-12-25,3938.04,5,Crédito,3,True
+613,Alexander Hall,rosariotaylor@yahoo.com,56,Lake Jamie,NH,2024-09-13,398.37,18,Boleto,5,True
+614,Jennifer Stephenson,butlercharlotte@forbes-armstrong.info,64,Port Erin,TX,2024-10-21,4440.4,13,Pix,2,True
+615,Dana Castro,jessica92@yahoo.com,34,Palmerburgh,ID,2025-01-12,4500.74,13,Débito,4,True
+616,Lauren Jackson,nthomas@yahoo.com,65,New Kathleen,FL,2025-03-18,374.31,17,Pix,3,True
+617,William Evans,htaylor@ward.info,58,Morrishaven,SC,2024-07-01,4759.68,3,Débito,4,False
+618,Rebecca Harmon,tamaramoran@harris.com,18,Greeneborough,ME,2024-11-30,2620.87,6,Débito,2,True
+619,Rachel Boone,michelle13@stephens.biz,28,Johnnyside,NC,2024-04-20,103.39,21,Pix,4,False
+620,Christopher Wagner,davidgrant@yahoo.com,29,Reevesborough,NE,2025-01-08,2664.49,3,Crédito,5,True
+621,Joseph Snyder,dianareese@jenkins.com,31,South Matthewstad,OK,2024-07-09,1964.92,24,Boleto,4,False
+622,Brady Smith,megan07@yahoo.com,25,South Joseph,ID,2024-12-20,4928.26,20,Débito,2,True
+623,Angela Nixon,billy09@gmail.com,48,East Olivia,MS,2024-05-08,1376.88,22,Crédito,4,False
+624,Dr. Joanna Hill,thomasjames@day.com,24,Spearston,PA,2024-08-08,2288.08,16,Débito,4,True
+625,Gregory Foster,lesliesims@patel.info,63,Frazierport,WY,2025-03-09,564.02,7,Boleto,5,True
+626,Stephanie Moore,ocunningham@moran.info,48,Davidville,ND,2024-09-13,4395.58,5,Débito,3,False
+627,Daniel Williams,pearsonrobert@cooper.net,33,Gonzalezchester,DE,2024-03-25,283.92,10,Débito,2,True
+628,Kayla Jones,watsontheresa@howard.com,59,Jillbury,NH,2025-02-21,3879.08,16,Pix,5,True
+629,Jerry Strickland,logandillon@brown.info,56,Amberhaven,MT,2024-04-20,1463.81,1,Pix,3,True
+630,Brandy Sims,wjimenez@hotmail.com,61,Blanchardtown,NY,2024-09-02,781.75,11,Débito,3,True
+631,Alexis Hernandez,shanedaniels@gutierrez.info,36,Masonchester,LA,2025-02-12,3537.06,17,Boleto,5,True
+632,Holly Stuart,michaelballard@gmail.com,25,South Eugeneside,NC,2024-12-30,3160.04,3,Pix,3,False
+633,Melissa Anderson,lowejeffrey@hotmail.com,46,South Richard,SD,2024-05-25,274.35,23,Pix,1,True
+634,Nicholas Bass,nicoledavis@butler.com,19,New Emilytown,AL,2024-03-26,2002.03,18,Débito,4,True
+635,James Wells,smithlaura@gmail.com,59,Matthewmouth,ID,2024-12-14,2822.83,15,Débito,4,False
+636,John Phillips,heathermanning@mendoza.com,20,East Jordanstad,MD,2024-12-07,1846.56,6,Boleto,3,True
+637,Susan Bailey,anitabaldwin@cherry.net,68,Erikshire,NM,2024-07-27,3195.42,6,Pix,4,True
+638,Jamie Riley,richardlittle@mann.info,46,East Nicole,KS,2024-09-14,2366.66,3,Pix,3,False
+639,Kathryn Craig,rmills@saunders.com,32,Danafort,WY,2024-09-22,3267.01,4,Débito,5,True
+640,Sarah Lopez,charlesmarshall@yahoo.com,55,Westton,IN,2024-10-19,3086.73,12,Pix,4,True
+641,Jose Hicks,shortraymond@yahoo.com,45,Michaelamouth,HI,2024-12-05,1084.66,20,Débito,3,True
+642,Kelly Mccullough,gregory68@yahoo.com,54,East Christinetown,OH,2024-12-03,1755.42,14,Crédito,3,False
+643,Katie Mckenzie,uroberson@bell.com,49,West Kimberly,AZ,2025-02-13,1585.94,4,Débito,4,False
+644,Glenn Hamilton,jessica97@hotmail.com,47,East Apriltown,TX,2024-06-26,4904.01,6,Débito,4,True
+645,Matthew Williams,lindsey78@hotmail.com,68,Lake Bryantown,NC,2024-05-29,1295.13,22,Débito,4,False
+646,Tracy Ellis,strongjerry@parker.biz,64,Burkeburgh,IN,2024-10-28,1228.5,2,Crédito,5,True
+647,Dakota Garcia,juan03@gmail.com,47,West Kenneth,MT,2024-10-27,381.61,9,Débito,4,False
+648,Riley Smith,annatran@hotmail.com,68,Veronicaville,CA,2024-11-29,4747.37,8,Débito,5,True
+649,Teresa Lopez,qbrown@hotmail.com,51,Billyland,HI,2024-12-23,2432.42,8,Débito,3,True
+650,Vincent Ward,smithjennifer@gmail.com,30,West Kennethfort,SD,2025-02-22,4946.26,2,Crédito,1,True
+651,Alexa Ewing,ryanedward@keller.com,50,East Vincent,NY,2025-01-12,3773.54,10,Crédito,2,True
+652,Lawrence Hebert,terri97@ramirez-mcdaniel.com,59,Marieville,ID,2024-04-03,267.8,16,Boleto,2,False
+653,Emily Short,johnbyrd@hotmail.com,34,South Michaelberg,NC,2024-05-11,3998.17,14,Pix,4,True
+654,Jonathan Cox,bridget34@jefferson.com,20,Matthewland,WI,2024-08-12,4552.79,1,Crédito,4,True
+655,Kevin Casey,nadams@kelly.info,26,Marymouth,NM,2024-04-16,3705.13,5,Débito,4,True
+656,Patricia Smith,xerickson@hotmail.com,69,Ferrellburgh,VT,2024-08-04,1403.06,23,Débito,2,True
+657,Heather Clark,amber59@yahoo.com,28,New Nicholas,ID,2024-06-04,812.63,1,Boleto,2,False
+658,Christina Lopez,diazdavid@mcclure-jimenez.info,66,Lorichester,CO,2025-01-16,1050.88,12,Pix,1,True
+659,Matthew Carr,ericfoster@gmail.com,44,Jasonview,AR,2024-10-04,4965.14,20,Boleto,1,True
+660,Laurie Shepard,nicolebowers@turner.org,45,East Steven,OH,2024-07-19,2550.1,4,Pix,3,True
+661,Susan Brown,kevinstone@gmail.com,19,West Victoria,OR,2024-06-01,4983.05,5,Débito,4,True
+662,Amanda Holland,mary93@yahoo.com,18,North Jeremyfort,AL,2024-11-25,3327.16,16,Boleto,4,False
+663,Kathryn Barnes,zking@williams-hamilton.biz,23,West Destiny,UT,2024-12-08,4659.1,18,Pix,4,True
+664,Thomas Howe,ndecker@lambert.info,42,Jenniferview,MO,2024-05-01,3252.75,11,Crédito,1,False
+665,Michelle Morgan,csampson@gmail.com,52,Nicholeport,LA,2025-01-27,1308.23,17,Boleto,5,True
+666,William Sandoval,tracyjones@jones.com,33,North Angela,IA,2024-12-25,1643.61,21,Débito,3,True
+667,William Lynch,coxjavier@hotmail.com,21,Smithport,NJ,2025-02-14,4524.6,7,Boleto,3,False
+668,Steven Miller,kristinetodd@johnson-rubio.info,64,Lake Carlosside,PA,2025-01-30,4618.26,3,Débito,5,True
+669,Caitlin Rodriguez,saracooper@bolton.info,55,East Mark,GA,2024-07-26,3225.42,18,Crédito,1,False
+670,Miguel Franklin,hwilliams@gmail.com,61,Bethtown,PA,2024-05-23,579.69,19,Débito,2,True
+671,Christopher Bradshaw,allenerin@duarte.info,37,Gibsonville,RI,2024-11-02,1378.46,2,Débito,3,True
+672,Melissa Hess,tanyapotter@chavez.info,42,South Bernard,OH,2024-05-18,971.86,1,Crédito,5,True
+673,Ashley Ayala,erika69@wolf-allen.com,24,Lake Amanda,CO,2025-02-18,3138.26,2,Pix,4,False
+674,Nicole Olson,qwebb@gmail.com,38,Lake Zoe,WA,2024-09-28,856.51,7,Débito,3,True
+675,Ariel Duran,michelle94@gmail.com,24,Woodview,OH,2024-11-07,2260.15,5,Crédito,5,False
+676,Richard Reid,jerrysmith@morris-jones.com,46,South Emily,MA,2024-11-06,2806.96,5,Crédito,4,False
+677,Kimberly Jones,dhopkins@yahoo.com,69,Port Michelleside,MT,2024-11-19,1216.57,16,Pix,1,True
+678,Adrian Rowe,geraldburke@hotmail.com,24,Burgessberg,NH,2025-01-02,1213.07,22,Boleto,3,False
+679,Bryce Cruz,william16@yahoo.com,20,Kathrynhaven,AK,2024-05-18,1408.03,20,Boleto,3,True
+680,Stacey Edwards,dawn44@griffin-ortiz.biz,46,Annettefurt,CA,2024-07-01,4495.58,7,Boleto,2,True
+681,Angela Myers,mcculloughrobyn@hotmail.com,46,Port Rebeccaberg,NV,2024-09-15,2866.67,11,Pix,3,True
+682,Victoria Williams,stewartricardo@hotmail.com,56,Thomaschester,KY,2024-07-09,716.47,17,Débito,4,True
+683,Thomas Johnson,terrykim@hotmail.com,55,Jenningston,VA,2025-02-07,1104.56,3,Crédito,2,True
+684,Jennifer Castro,smithmichael@clark.com,23,East Deborahburgh,NC,2024-11-07,4690.54,15,Débito,4,True
+685,Jennifer Mcclain,andrea46@steele.com,63,Martinfurt,NJ,2024-09-13,1928.22,15,Boleto,3,True
+686,Victoria Brown,howardgregory@yahoo.com,27,West Jeremyborough,RI,2025-02-08,1816.9,15,Boleto,1,True
+687,Sherry Thomas,smithjason@hotmail.com,54,Whitebury,NM,2024-08-31,2402.97,1,Crédito,3,False
+688,Bethany Clark,klawson@harris-richardson.org,31,Lake Vickiton,SD,2024-12-22,2031.39,8,Crédito,4,True
+689,Sandra Ray,bmeyer@yahoo.com,39,Billton,NC,2024-05-28,1757.58,24,Débito,2,False
+690,David Powell,vmunoz@hotmail.com,49,Annmouth,IL,2024-08-30,1895.75,2,Débito,4,False
+691,Mark Williams,goodwinperry@day.com,35,Lake Daniel,CA,2025-01-08,4345.65,5,Boleto,2,True
+692,Andrea Smith,sheltonmark@gmail.com,53,Justinbury,RI,2025-03-07,3504.17,9,Crédito,5,True
+693,Raymond Wall,denise90@hotmail.com,63,North Kathy,NH,2024-11-06,187.07,16,Crédito,4,False
+694,Teresa Wilson,scottortiz@hill.com,69,Laurenshire,AZ,2025-01-06,4794.91,1,Boleto,2,False
+695,Patrick Morris,atkinsondaniel@hotmail.com,26,Parkerport,DE,2025-01-30,4135.5,4,Boleto,4,True
+696,Kenneth Brown,frankconner@gmail.com,43,Port Brian,UT,2024-08-21,4613.19,16,Boleto,5,True
+697,David Rivera,davismonica@gmail.com,39,Port Amandaland,MN,2025-03-16,1279.41,21,Boleto,5,True
+698,Mr. Bradley Stewart,lwashington@simpson-johnson.com,63,Watsonton,KY,2024-06-07,3473.47,11,Débito,3,True
+699,Jamie Castillo,frances32@yahoo.com,55,Carterburgh,SC,2024-04-24,4886.13,23,Pix,4,True
+700,Benjamin Robinson,dalton68@hotmail.com,40,South Arthur,MD,2024-04-25,722.73,2,Boleto,4,True
+701,Sandra Dixon,lepaula@yahoo.com,34,Lake Angela,NH,2025-01-23,3758.77,4,Crédito,4,False
+702,Benjamin Moore,wbyrd@smith.com,43,Silvastad,CO,2024-10-15,1288.4,4,Pix,3,True
+703,Keith Beck,randallkelly@rodriguez.com,64,Knoxland,WA,2024-11-18,2599.1,3,Boleto,5,True
+704,Krystal Bell,amandabrooks@gmail.com,55,New Kathryn,IL,2024-05-28,1337.12,21,Débito,3,True
+705,Monica Morales,yjones@mueller.com,19,Flowersmouth,WY,2025-01-31,3280.25,5,Boleto,5,True
+706,Natasha Conway,grantpaul@hotmail.com,23,Elizabethberg,IA,2024-12-12,3469.19,11,Boleto,2,False
+707,Gregory Waters,terrykevin@bridges-williams.net,24,Ellisport,ND,2024-04-01,308.82,15,Boleto,5,True
+708,James Rowland,lhuffman@hall.info,30,Lake Larry,NE,2024-08-19,2791.26,21,Pix,4,False
+709,Jose Wright,qrodriguez@macias.com,44,Lake Tiffany,IN,2025-02-02,3251.67,10,Pix,5,False
+710,Brian Graham,wilsonrichard@faulkner.com,28,Port Andres,NH,2024-06-27,2895.07,6,Boleto,4,True
+711,Kimberly Stone,linda39@myers.com,32,Arnoldborough,IA,2025-03-21,1441.02,20,Crédito,5,False
+712,Andrew Howard,heathergriffin@robinson-howell.com,26,Smalltown,MA,2024-06-20,1182.04,23,Crédito,2,True
+713,Catherine Adams,bondgrace@yahoo.com,25,North Virginiaborough,KY,2025-03-05,852.55,6,Boleto,1,False
+714,Dr. Travis Smith,stacey81@hotmail.com,63,North Robertberg,NC,2024-07-24,3823.38,4,Pix,4,False
+715,Cynthia Pena,samanthaortiz@harper.com,23,Port Paula,TN,2024-09-21,3984.32,20,Crédito,5,True
+716,Stacy Vega,sharon64@williams-burton.biz,65,West Taylor,WA,2024-12-27,2796.65,24,Pix,5,True
+717,Rachel Martin,tonya06@gmail.com,60,Hintonmouth,WV,2024-05-25,2708.4,17,Pix,1,True
+718,Parker Fox,elliottjustin@rivers.org,21,Donaldport,HI,2024-03-27,1869.42,8,Boleto,3,True
+719,Mrs. Janice Roberts DVM,fdavis@williams.com,28,West William,PA,2024-07-24,471.67,11,Boleto,3,True
+720,Dr. Michael Lutz,hopkinsjeffery@norton.com,68,Lake Michelleborough,IA,2024-07-29,4921.75,13,Boleto,5,False
+721,Vanessa Thompson,jessica90@yahoo.com,45,New Richard,NH,2024-06-12,4362.26,5,Boleto,3,True
+722,Kenneth Good,awatkins@yahoo.com,43,New Laurenland,VA,2024-03-28,1106.95,17,Débito,4,False
+723,Sharon Fuller,robinsonjason@spence-anderson.info,21,West Rhondaside,TX,2025-01-07,2181.78,13,Pix,2,True
+724,Jenna Richardson,butlermark@gmail.com,32,Amandachester,KY,2024-10-20,3297.32,16,Débito,4,True
+725,Daniel Estes,gregory35@yahoo.com,36,New Gabrielside,VA,2024-08-27,2807.96,11,Crédito,2,True
+726,Sharon Dyer,ian93@yahoo.com,23,Adamsstad,ME,2024-10-20,1330.88,12,Pix,4,True
+727,Cynthia Morgan,lcarrillo@weeks.com,22,Port Ashleyton,WV,2024-10-23,1687.86,22,Débito,1,True
+728,Erica Thomas,brianacox@rogers.info,35,South Tonyafort,NM,2024-03-31,3962.01,15,Débito,5,True
+729,Krista Herrera,christopher55@norton.com,23,South Christopher,RI,2024-03-27,896.01,11,Boleto,5,True
+730,Ashley Weeks,michele90@ewing.com,48,Andremouth,ME,2024-10-27,499.75,20,Boleto,4,True
+731,Michael Burke,michelle41@hotmail.com,42,Joshuafort,NC,2024-10-10,2614.61,12,Débito,4,True
+732,Michelle Davis,sherrywilson@patel.com,21,New Shane,ND,2025-03-12,1184.52,7,Pix,1,True
+733,Daniel Price MD,haley11@campos.com,23,South Chad,SC,2025-02-06,1238.35,8,Crédito,3,True
+734,Jason Simon,allison43@glenn.com,58,Johnfort,RI,2025-02-09,2676.99,1,Pix,4,True
+735,Tyler Munoz,qsnyder@larson.com,54,Johnmouth,HI,2025-03-05,2542.81,20,Boleto,5,False
+736,Justin Miller,patricia42@nguyen.com,67,Lindseymouth,DE,2024-06-10,4647.0,3,Crédito,3,True
+737,Melissa Barnes,nrogers@ballard.com,42,South Don,MI,2024-06-12,2566.9,1,Débito,5,True
+738,Michael Mcconnell,hillanthony@parker.com,51,Lake Daniel,NJ,2024-12-27,1062.23,24,Pix,4,True
+739,Janice Boyer,qtaylor@hotmail.com,36,Bryantberg,WV,2024-04-14,232.68,1,Débito,1,True
+740,Anthony Bird,tcole@alvarez.biz,51,Goodtown,WV,2024-10-11,512.47,8,Crédito,4,False
+741,Lisa Hansen,cgarcia@jackson-morrison.org,32,East Rebeccabury,OK,2025-01-29,2157.3,19,Débito,5,True
+742,Steven Farrell,devinholmes@gmail.com,67,Elaineborough,CT,2024-08-14,2633.89,1,Débito,5,True
+743,Mr. Michael Barber,michaelmoody@vasquez-shaw.com,25,Robertshaven,KY,2024-09-21,3267.8,3,Crédito,4,True
+744,Rachel Davis DVM,kelly87@hotmail.com,61,Allenport,HI,2024-12-26,2408.91,7,Crédito,3,True
+745,Lauren Rivera,victoria03@benson.com,64,Port Nicholas,AR,2024-07-09,3325.18,13,Débito,4,False
+746,Linda Davis,lreilly@walker.org,66,Port Chad,AK,2024-04-09,103.51,1,Crédito,1,True
+747,Alicia Kramer,chobbs@gmail.com,51,Petersontown,NY,2025-03-18,172.43,9,Pix,5,True
+748,Monica Davis,lacey25@young-carter.com,35,Port Donaldfurt,HI,2025-03-19,4033.39,4,Pix,2,True
+749,Jenna Anderson,deniselewis@hernandez.com,47,Robertborough,ME,2024-05-03,3107.14,14,Crédito,4,True
+750,Terri Nielsen,lori17@nichols.info,30,Rodriguezside,SD,2024-09-29,3803.12,4,Boleto,4,False
+751,Sharon Gonzalez,daniel49@jones.com,64,North Michael,PA,2024-10-29,1954.18,7,Pix,4,True
+752,Terry Garza,johnsondavid@morris.com,50,Nicoleborough,WA,2025-03-17,3044.58,7,Débito,5,True
+753,Carlos Perez,matthewgarrett@thomas.com,52,South Tinaport,MI,2025-01-26,2398.93,7,Crédito,3,False
+754,Eric Navarro III,qsmith@hotmail.com,69,Steelechester,OH,2025-01-20,3654.05,21,Boleto,2,True
+755,Steven Beck,clarkjanice@johnson-hayes.biz,41,Christophershire,MT,2025-01-29,578.53,3,Pix,4,False
+756,Catherine Harrell,ukramer@hotmail.com,43,Davidburgh,RI,2024-04-05,675.71,22,Crédito,2,False
+757,Joshua Castillo,edavis@yahoo.com,64,Williamsport,MO,2024-05-25,4084.8,16,Boleto,5,True
+758,Robert Nelson,millermonica@neal-roy.biz,68,South Lesliehaven,WI,2024-05-07,616.33,21,Pix,2,False
+759,Melissa Phelps,theresa70@shaw-torres.org,61,West Ianhaven,VT,2024-10-10,4826.1,15,Crédito,4,True
+760,Rebecca Doyle,brianjackson@nguyen-morrison.biz,59,New Samanthastad,VT,2024-10-11,3591.93,19,Boleto,4,False
+761,Charles Clark,martinbrock@thompson-oneill.com,64,Ashleyfort,DE,2025-02-04,2667.57,17,Débito,2,True
+762,April Martinez,jeffrey89@french.biz,18,North Vincentport,OH,2024-12-29,4441.98,12,Boleto,3,False
+763,Mr. Fernando Robinson,arussell@gmail.com,30,West Tracyburgh,TX,2024-09-15,4330.32,2,Boleto,4,True
+764,Eugene Ibarra,kylehall@schultz.com,27,North Yvonne,IA,2025-01-14,3899.59,11,Débito,3,False
+765,Matthew Gross,jamessmall@hotmail.com,36,Port Matthewmouth,NJ,2024-07-19,4006.74,6,Boleto,3,False
+766,Chelsea Bailey,andrejohnson@anderson.biz,22,North Curtis,AL,2025-02-06,3929.3,16,Crédito,2,True
+767,Joshua Costa,millerkevin@rose.net,25,Port Renee,LA,2024-04-05,2891.56,14,Pix,4,False
+768,Juan Jones,jeremy81@washington-spencer.org,21,Taylorton,AK,2024-12-01,3661.57,22,Pix,2,True
+769,Troy Kerr,xyoung@hotmail.com,66,Kempbury,ND,2024-08-15,2340.03,5,Crédito,3,True
+770,Samuel Baldwin,wheelermariah@coleman.info,30,West Isaac,CT,2024-12-26,4030.86,1,Pix,3,True
+771,Julia Henderson,morrissamuel@clark.com,55,Lake Bryanberg,MO,2024-08-04,3743.3,14,Pix,2,True
+772,Kimberly Juarez,nancy62@mitchell.com,63,Jerryburgh,PA,2024-08-03,4344.83,13,Crédito,2,True
+773,Barry Alexander,heatherbrooks@gmail.com,66,Sarahtown,UT,2024-08-15,4644.7,7,Boleto,5,False
+774,Jose Cooper,dmahoney@garcia-lindsey.com,63,South Danielside,MN,2024-07-05,166.82,18,Pix,5,True
+775,Nancy Cruz,donaldlane@hotmail.com,36,Jamesborough,MO,2024-08-15,2454.06,18,Débito,3,True
+776,Michael Weaver,kathy80@morales-gutierrez.com,69,New Andrewville,NY,2024-09-18,4594.04,4,Pix,4,False
+777,Andrew Jensen,donna78@joseph.info,67,Ashleyland,AZ,2024-06-24,932.68,1,Boleto,3,True
+778,Laura Perry,kpearson@hotmail.com,25,West Madison,MN,2025-03-06,292.19,20,Crédito,3,True
+779,James Miller,fclark@simmons.com,44,West Joshua,HI,2024-09-19,2207.71,18,Crédito,4,True
+780,Barbara Nunez,wandahatfield@yahoo.com,67,Jennatown,TN,2024-06-24,2213.14,4,Crédito,5,True
+781,Carol Harris,paulconway@walker.info,64,Miguelside,KY,2024-11-07,2702.86,14,Débito,3,True
+782,Kyle Russell,allison17@yahoo.com,47,North Kathy,AL,2025-03-01,2406.17,12,Pix,2,True
+783,Kimberly Fox,donaldzhang@gmail.com,21,East Kellyfort,KS,2024-07-09,3520.17,18,Crédito,3,False
+784,Brandon Middleton,haley35@morton.com,28,Port Kyleside,MT,2024-10-13,2754.93,5,Boleto,3,True
+785,Carlos Lee,ayersadrian@gmail.com,38,North Joeton,AL,2025-01-02,2757.47,24,Crédito,5,False
+786,Margaret Reynolds,jamesangela@gmail.com,60,New Nicholasborough,NE,2025-03-11,3369.34,16,Crédito,2,True
+787,Martin Baker,leeheather@bishop.com,19,Robertfurt,KY,2024-12-11,2659.71,11,Pix,3,True
+788,Margaret Morrison,brenda60@yahoo.com,38,South Terriside,TN,2024-12-19,404.44,7,Pix,2,True
+789,Gregory Mack,thomas04@gmail.com,34,North Ambertown,ME,2024-08-27,4075.17,21,Pix,1,True
+790,Matthew Villegas,john43@hotmail.com,60,Yangstad,DE,2024-08-16,1503.62,22,Boleto,4,True
+791,Joseph Lewis,danielleyoung@summers-huang.net,68,Lake Davidton,MN,2024-05-26,4518.09,7,Pix,4,False
+792,David Ruiz,connorfrench@dunn-dunn.com,46,North Nicole,NC,2025-02-27,3246.95,17,Pix,5,True
+793,Sara Roberts,egonzalez@yahoo.com,44,New Terryfurt,MI,2024-05-07,3842.96,5,Pix,4,False
+794,Nathan Beck,colemanmichelle@castro.info,41,Aguirremouth,LA,2024-04-23,1631.3,4,Crédito,4,True
+795,Sherry Davis,andrea61@hotmail.com,66,Lake Ashley,MS,2024-11-22,864.88,8,Boleto,3,False
+796,Jon Salazar,vjones@jones-gutierrez.com,20,South Nicole,NH,2024-03-26,3292.19,1,Débito,2,False
+797,Crystal Taylor,kylehunt@hotmail.com,56,Salashaven,MD,2024-04-10,1751.7,1,Boleto,3,True
+798,Cynthia Smith,abigail73@schultz-williams.com,27,North Adam,DC,2025-02-26,2208.15,9,Crédito,4,False
+799,Joseph Schultz,sarah97@hotmail.com,20,East Stacytown,VT,2024-10-03,4261.75,4,Débito,5,True
+800,Brianna Romero,christopher02@patterson.com,62,North Jeanne,MS,2024-12-12,209.42,7,Boleto,4,True
+801,Nathaniel Ward,debrarichardson@macias-johnson.com,59,Jenniferbury,NC,2024-06-10,3992.1,6,Crédito,2,True
+802,Cheryl Vang,dustin19@hotmail.com,43,South Matthewmouth,DC,2024-11-18,4629.03,8,Crédito,3,True
+803,Jessica Swanson,meghangriffin@yahoo.com,54,New Jessica,VT,2024-10-13,2580.63,20,Débito,5,True
+804,Andrew Alexander,bmullen@yahoo.com,44,Leonardstad,LA,2024-07-17,806.48,14,Crédito,1,False
+805,Matthew Rose,aali@obrien.com,22,New Corey,MN,2024-05-05,2041.55,19,Débito,1,True
+806,Katherine Moore,davidchapman@burton.info,59,South Brandonville,PA,2024-11-04,829.98,18,Boleto,5,True
+807,Kenneth Baker,mark71@gmail.com,28,East Isaac,PA,2025-02-14,701.45,4,Débito,5,True
+808,Todd Taylor,debbie69@hughes.com,30,New Davidstad,NH,2024-06-20,4823.17,9,Débito,3,True
+809,Kimberly Giles,nicole06@mckinney-brooks.com,58,Devinview,DE,2024-12-14,1586.76,16,Crédito,4,False
+810,Elizabeth Harrison,lmorrison@hotmail.com,51,Margaretton,PA,2024-11-03,1406.73,12,Pix,4,True
+811,Jacob Mcintosh,vcook@montgomery.com,55,Omarmouth,NC,2024-05-28,3878.35,4,Crédito,3,True
+812,David Williams,westfrank@hanson.com,57,Ericburgh,ND,2024-08-20,2688.77,13,Crédito,3,False
+813,Melinda Lawrence,christopherfitzgerald@gilbert-armstrong.com,50,South Jennifer,NJ,2024-04-15,4377.65,12,Boleto,5,True
+814,David Willis,valenciavalerie@archer.biz,51,North Amber,AK,2025-03-06,4999.28,22,Débito,1,False
+815,Rebecca Martin,carolyn90@gmail.com,44,South William,OH,2024-12-04,493.4,18,Boleto,3,True
+816,Meghan Perkins,elizabethquinn@gmail.com,53,Christophertown,NE,2025-01-12,801.08,19,Boleto,5,False
+817,Kelly Blevins,hinesanthony@gmail.com,43,West Tyler,SC,2024-07-13,4721.2,11,Débito,3,False
+818,Lori Smith,deannamurray@davis.net,68,Port Kimberly,MT,2025-02-02,1135.38,12,Boleto,3,True
+819,Kyle Wang,virginiawood@gmail.com,42,Meganton,AR,2025-02-06,320.16,16,Pix,1,True
+820,Mark Moore,bhess@cruz-dean.com,36,New Ryan,SC,2025-01-20,4315.77,7,Débito,4,True
+821,Samantha Oliver,rodriguezeric@hotmail.com,38,Johnsonshire,CA,2024-06-11,460.51,4,Boleto,5,False
+822,Douglas Adams,jessicajohnson@gmail.com,48,Lake Hannahville,OH,2024-05-07,4813.02,19,Pix,4,True
+823,Richard Lane,matthew56@yahoo.com,46,North Regina,OH,2024-05-02,3825.37,22,Crédito,4,True
+824,Michelle Thomas DVM,leemolly@ellis.biz,26,Jasonton,WI,2024-08-28,2081.67,4,Débito,5,True
+825,Gary Walsh,crossdonald@cohen.net,36,Williamsside,MI,2025-01-21,419.08,22,Crédito,2,False
+826,Alex Phillips,carlawilson@solomon.org,43,West Jessica,MO,2025-02-08,3586.91,2,Boleto,2,True
+827,Ricardo Watkins,michaelstewart@yahoo.com,42,West Kevin,IL,2025-03-08,2892.19,11,Pix,4,True
+828,Shane Lewis,jenningsamy@riley.org,57,Smithshire,AK,2024-12-12,841.79,2,Pix,1,True
+829,Shaun Hubbard,lhernandez@yahoo.com,60,Sethmouth,NH,2024-10-04,3173.97,22,Pix,5,False
+830,Joseph Krause,paigewilliams@gmail.com,46,Perryview,SC,2024-12-18,3320.77,11,Crédito,4,True
+831,Michelle Rios,stephanie53@yahoo.com,42,North Andrewmouth,NJ,2025-02-22,4732.55,10,Pix,4,False
+832,Tammy Evans MD,deborah59@gmail.com,36,Simsburgh,IA,2025-01-25,2343.39,14,Pix,5,True
+833,Cynthia Holland,sarah24@gmail.com,21,North Bryan,WI,2024-12-23,2611.19,20,Crédito,1,True
+834,Elizabeth Richardson,utate@smith-wood.com,62,Ronaldtown,HI,2024-03-31,4551.84,3,Crédito,3,True
+835,James Schneider,xlee@michael-thompson.com,37,New Tylerside,GA,2025-01-14,1307.37,19,Pix,4,True
+836,Ricardo Mitchell,gary29@glenn.com,63,Jeffreyville,OK,2025-01-27,1390.4,21,Boleto,5,False
+837,Jessica Carr,bergerluis@perry-mullins.com,18,Lake Renee,MA,2024-05-30,4657.54,8,Boleto,4,False
+838,Kelly Martin,csanders@gmail.com,28,New Heather,PA,2024-09-23,1929.9,9,Débito,4,True
+839,Brian Cruz,alexandra54@yahoo.com,21,East Danielland,UT,2024-07-07,3881.0,22,Pix,4,True
+840,John Ruiz,gilbertdavid@gmail.com,24,Abigailfurt,ME,2024-11-12,1765.23,6,Débito,4,False
+841,Brandi Jimenez,swright@collins.biz,45,Port Dennisshire,AZ,2024-07-27,1168.83,15,Crédito,4,True
+842,Carolyn Smith,bryce03@yahoo.com,53,Port Timothy,OR,2024-07-28,1613.21,20,Crédito,4,True
+843,Michael Valencia,wilkinswilliam@bryan-perez.com,24,Williamsonchester,SC,2024-08-21,2584.13,24,Crédito,2,False
+844,Andre Collins,millerolivia@yahoo.com,37,Jimmyhaven,OK,2024-11-07,1186.73,7,Crédito,5,False
+845,Tami Rivera,vasquezdavid@wiggins-lindsey.biz,52,Lake Katherinefurt,VA,2024-12-17,3677.01,1,Boleto,5,False
+846,Bethany Davidson,nancy72@hotmail.com,68,Lake Matthew,NY,2024-11-05,467.12,9,Crédito,3,True
+847,Philip Barr,vanessarandolph@farmer.com,68,North Jared,FL,2024-07-24,2811.24,22,Crédito,4,False
+848,Michael Gomez,munozrebecca@hotmail.com,56,Taylorburgh,OH,2024-05-17,2925.62,16,Boleto,3,True
+849,Jennifer Silva,omargarcia@yahoo.com,38,North Timothymouth,NH,2024-11-06,1646.79,6,Crédito,5,True
+850,Ms. Jodi Davis,cabreramatthew@martin.com,61,South Christopherfurt,RI,2024-10-01,317.89,4,Débito,4,True
+851,Kelly Haynes,perezryan@hotmail.com,18,Lake Jeffreystad,MT,2024-08-01,2610.32,15,Pix,3,True
+852,Cynthia Walsh,dawn79@gmail.com,54,Cynthiachester,MN,2024-05-30,412.74,9,Pix,5,False
+853,Anthony Randall,dyang@gmail.com,63,Josephberg,RI,2024-12-17,4255.51,10,Crédito,1,True
+854,Elizabeth Rose,xdominguez@robinson-perry.com,59,South Markmouth,OR,2024-12-03,4751.91,24,Crédito,3,True
+855,Megan Smith,gibsoncynthia@warner-montoya.com,20,Sherylborough,OH,2025-01-08,1398.29,5,Crédito,3,True
+856,Brandon Mullins,jimrodriguez@gmail.com,51,Port Gregoryburgh,PA,2024-04-09,596.73,8,Boleto,2,True
+857,Craig Brooks,tommysolomon@garcia.com,30,Port Lesliechester,WI,2024-12-27,1504.96,2,Pix,3,True
+858,Julia Gardner,jonathan58@hotmail.com,33,South Dawnberg,MD,2024-08-06,1063.57,20,Débito,4,True
+859,Jennifer Garcia,michaelmcguire@levine.com,51,Port Tracystad,DC,2025-02-07,143.63,14,Boleto,3,False
+860,Nathaniel Edwards,jacobscameron@gmail.com,41,Albertfort,WI,2024-11-06,4467.38,6,Boleto,4,False
+861,Richard Oneal,pricebecky@hotmail.com,30,Johnsonfurt,MO,2024-09-21,3966.18,9,Boleto,2,False
+862,Luis Yang,wolsen@gmail.com,23,East Melissahaven,IA,2024-07-09,1584.1,10,Débito,5,True
+863,Russell Sutton,austinlopez@gmail.com,56,Kimberlymouth,AL,2024-04-28,3259.65,22,Débito,2,False
+864,Christopher Scott,zhall@yahoo.com,19,Sandraborough,RI,2024-12-25,4855.01,8,Pix,4,False
+865,Carol Bush,lisa61@valdez.biz,28,Martinezmouth,VA,2024-05-20,3949.22,4,Débito,3,True
+866,Kristina Smith,garciasamantha@yahoo.com,24,South Joshua,WV,2024-08-21,3769.97,16,Crédito,5,False
+867,Eric Mccoy,loneal@lee.com,24,Karifort,WY,2024-06-15,3077.36,6,Crédito,5,True
+868,David Reyes,iking@gmail.com,56,New Theresa,RI,2024-07-20,1912.71,10,Pix,4,False
+869,Kristopher Castro,zhowell@gmail.com,56,Jenniferland,ME,2025-02-13,2964.73,23,Débito,1,True
+870,Jeffery Drake,anthonyrivera@hotmail.com,29,Johnsonport,UT,2024-12-22,870.68,22,Pix,1,True
+871,Tracy Morrison,cwhite@gmail.com,68,Lake Jeanne,CO,2024-10-08,285.04,12,Pix,1,True
+872,Jose Kennedy,jeffreyhanson@hotmail.com,39,Carterville,MI,2025-02-04,2024.49,4,Débito,5,True
+873,Nancy Gilmore,psmith@kennedy.net,68,Kathymouth,TN,2025-03-10,855.24,19,Boleto,2,True
+874,Dawn Nelson,alicia10@yahoo.com,68,North Andrewborough,SC,2024-05-10,848.44,4,Débito,5,True
+875,Shawn Mccullough,harristaylor@wade-willis.net,69,Roberttown,CT,2025-01-21,2451.17,15,Crédito,4,True
+876,Alexander Wells,billy29@dixon.net,20,East Valerie,AK,2024-12-06,966.98,10,Débito,4,True
+877,Michele Lowe,charles75@hotmail.com,30,Avilamouth,NC,2024-03-22,1079.41,18,Boleto,1,True
+878,Brian Daniel,daviswilliam@silva.biz,47,Lake Mark,NV,2025-01-24,2918.18,16,Débito,4,False
+879,Catherine Velasquez,joseph71@yahoo.com,27,Brownmouth,AZ,2024-05-21,2339.61,23,Crédito,5,True
+880,Lindsay Arnold,jamesanderson@hotmail.com,69,Port Danielletown,AL,2025-03-10,3618.78,16,Crédito,4,False
+881,Jason Owens,rpineda@yahoo.com,26,Rachaelfort,WY,2024-10-07,2368.95,10,Boleto,3,True
+882,Jessica Smith,kevin07@yahoo.com,23,Barajashaven,OR,2024-08-01,1605.8,20,Boleto,4,True
+883,Andrea Braun,michaelreid@gmail.com,61,Karentown,MS,2024-04-09,3215.75,8,Crédito,3,True
+884,Michelle Steele,ronald31@johnston-green.com,19,New Christopherchester,WY,2024-07-03,2464.88,8,Crédito,2,False
+885,Jennifer Ramirez,vcraig@bradley.com,61,New Josephtown,FL,2024-10-16,4890.16,6,Débito,5,False
+886,Alexander Woods,harrisonsherry@pope.com,33,Port Jeffreymouth,NM,2025-01-04,1314.06,12,Pix,5,False
+887,Nancy Smith,wtran@yahoo.com,30,Lake Courtneyfort,NV,2024-08-16,3407.78,13,Pix,1,False
+888,Sandra Camacho,campbellkarina@smith.com,65,Novaktown,MI,2024-08-22,4938.12,15,Boleto,1,True
+889,Jennifer Padilla,shelbymartin@gmail.com,30,Francischester,MA,2024-12-02,4637.37,15,Boleto,2,True
+890,Amy Williams,paullong@bates-aguilar.biz,39,Crawfordchester,NY,2024-10-26,1337.58,3,Pix,5,True
+891,Mason James,jamesgrant@gilbert-may.net,36,West Sara,MO,2024-10-18,3625.4,2,Crédito,2,True
+892,Pam Wise,patricia68@yahoo.com,43,Michaelburgh,TN,2024-12-16,1994.04,11,Boleto,5,False
+893,Wesley Spencer,diana06@gmail.com,31,Jeremiahton,NJ,2025-01-11,3821.5,24,Débito,4,True
+894,Madison Nunez,tnorris@gmail.com,48,New Anthonyberg,WI,2024-07-17,715.97,6,Pix,3,True
+895,Michael Reynolds,bradykaren@anderson-green.net,46,Amandaside,MD,2025-01-19,4868.17,15,Débito,2,True
+896,Michelle Dickson,josephclark@gmail.com,62,Paulmouth,CA,2025-01-06,832.54,1,Débito,4,False
+897,Sandra Willis DDS,brandonmendez@yahoo.com,59,Tuckerhaven,CA,2024-09-22,3527.73,20,Crédito,5,True
+898,Jacob Barnes,andrea65@gmail.com,39,Port Courtneytown,SC,2025-03-18,1793.02,8,Boleto,4,False
+899,Maria Jackson,melvindavis@robinson.biz,24,Kevinchester,MI,2024-05-22,1015.99,16,Boleto,3,True
+900,Jeffrey Alexander,fowlerrobert@gmail.com,54,North Victoriaport,KY,2024-12-31,2015.19,16,Boleto,4,True
+901,Darrell Rivera,ellisjustin@yahoo.com,66,West Pamela,GA,2024-09-14,4859.66,2,Crédito,4,True
+902,Mario Moore,qsimpson@yahoo.com,58,Skinnermouth,ID,2024-07-25,662.36,1,Débito,2,True
+903,Kathleen Jones,snguyen@valencia.com,44,New Melissa,VT,2025-02-16,262.16,9,Débito,3,False
+904,Tony Johnson,jonathon03@gutierrez-kim.net,48,New Ashley,TX,2024-09-20,4000.97,18,Débito,5,True
+905,Cassidy Pena,ehodges@stone.com,23,New Kristinaside,MT,2024-06-14,4117.98,24,Débito,4,True
+906,Dr. Jessica Reynolds,christopher81@hotmail.com,33,Amyside,SD,2025-03-20,2480.39,14,Boleto,4,False
+907,Jeremiah Rubio,jontaylor@gmail.com,55,Muellerside,PA,2024-06-13,4808.57,24,Boleto,4,True
+908,John Huang,justinscott@garcia.com,55,East Raymond,ND,2024-10-28,3175.81,15,Débito,4,True
+909,Bruce Briggs,sanderscharles@martin.org,67,Mannbury,ID,2024-05-28,2995.89,23,Débito,3,False
+910,Robert Turner,stephaniehenderson@salinas.com,49,Beardhaven,GA,2024-05-02,4181.42,1,Crédito,3,True
+911,Robert Rivera,hornshannon@hotmail.com,50,Port John,AR,2025-01-17,105.47,6,Boleto,1,False
+912,Anthony Curtis,oshaffer@hotmail.com,66,Jessicaville,WV,2024-10-02,1063.83,22,Boleto,5,False
+913,Colleen Fitzpatrick,laurajackson@gmail.com,34,New Joseph,UT,2024-03-23,1506.99,23,Débito,1,False
+914,Kimberly Harris,wudenise@gmail.com,50,Henryport,SC,2024-08-08,2289.01,6,Boleto,5,True
+915,Jessica Williams,qwells@wood.org,28,Flemingstad,WY,2024-06-18,706.6,14,Boleto,3,True
+916,Jackie Phillips,deanna30@hotmail.com,30,Lake Annette,MN,2025-03-08,4312.65,4,Débito,2,False
+917,Andrew Williams,hodgefrancisco@yahoo.com,47,Murphyville,OR,2024-07-02,3606.55,14,Pix,4,True
+918,Shawna Harrison,zgibson@miller.biz,18,Quinnberg,PA,2024-10-21,3877.88,4,Pix,4,True
+919,Charles Meza,iwilliams@yahoo.com,47,West Caitlin,CO,2024-11-15,546.49,9,Pix,4,True
+920,Rebecca Jones,levinejuan@hotmail.com,44,Raymondborough,LA,2024-06-01,2557.16,4,Boleto,3,False
+921,Richard Wilson,elliottyolanda@yahoo.com,57,South Marie,OH,2024-07-06,686.65,10,Crédito,4,True
+922,Taylor Reynolds,shane97@smith-martinez.com,40,Port Cheryl,AL,2024-04-04,1442.8,12,Boleto,3,False
+923,Mitchell Griffin,trujillorobert@gray.com,37,New Carmentown,PA,2024-08-17,4610.68,4,Débito,3,True
+924,Stacy Fernandez,tiffany89@buchanan.com,23,South Amybury,CT,2025-03-16,3885.88,12,Crédito,4,True
+925,Jaime Atkinson,knappryan@yates.com,54,Combsland,SD,2024-05-25,3883.08,12,Débito,5,True
+926,Angela Hunter,fbyrd@mendez-brown.com,37,South Fredstad,IL,2024-05-20,3790.12,20,Crédito,1,True
+927,Shawn Wright,hollowaymichael@johnson.com,54,Steveview,CT,2024-12-01,2082.75,23,Crédito,3,True
+928,Wendy Kemp,susanhernandez@gmail.com,23,Harveyland,MD,2024-11-30,526.08,11,Crédito,3,True
+929,Erica Hale,daycarol@mclaughlin-nelson.org,46,Theodorechester,MI,2024-12-08,4661.3,11,Crédito,4,True
+930,Susan Allen,douglas19@hotmail.com,30,Phamville,AZ,2024-08-26,3502.53,5,Pix,3,False
+931,Brittany Sullivan,angelalopez@rhodes.com,44,Lake Hannahville,WA,2025-02-03,3913.38,13,Crédito,2,True
+932,Helen Campbell,marthamckinney@hale-miranda.com,67,New Danielville,TN,2024-08-09,3978.91,3,Crédito,2,False
+933,James Smith,moorenicole@gray.biz,37,East Darrenland,WA,2024-09-20,4134.37,6,Débito,2,True
+934,Patrick Schwartz,woodtammy@davis.com,30,North James,MS,2024-12-25,1973.47,16,Débito,3,True
+935,Breanna Wilson,rbryant@thornton.biz,56,Morganshire,DE,2024-04-17,4680.43,13,Pix,4,False
+936,John Martinez DVM,michaelstephens@yahoo.com,25,Laneshire,OR,2024-09-04,2400.98,18,Crédito,3,False
+937,Shelby Jackson,psolis@greene-sanders.com,34,Jacobtown,NC,2024-06-04,1158.2,16,Débito,5,True
+938,Robin Morris,johnparker@gmail.com,47,Heathershire,AR,2024-06-01,2621.66,10,Crédito,3,True
+939,Mrs. Rebecca Thomas,dtyler@simon.com,18,South Michael,PA,2024-07-10,3255.59,22,Crédito,3,True
+940,Collin Wilson,melaniedavis@everett-herrera.com,41,Bryantton,NH,2024-11-12,1665.16,9,Boleto,3,False
+941,Dana Lloyd,taylorraymond@garcia.com,33,North Jason,WI,2024-08-19,623.35,4,Crédito,5,True
+942,Tina Hampton,christine24@johnson.com,28,Navarroburgh,MI,2024-09-21,2338.64,15,Débito,4,True
+943,Kristin Johnson MD,wilsonbrenda@yahoo.com,21,Lake Sethtown,NE,2024-11-02,2490.22,17,Boleto,3,True
+944,Vincent Fisher,vincent64@greer-gonzalez.org,21,North Shellyland,RI,2025-03-06,3879.89,7,Boleto,5,True
+945,Robert Gillespie,ztaylor@huffman-hancock.com,34,Johnsonstad,KY,2025-02-01,454.87,20,Débito,4,True
+946,William Sharp,paulmcmahon@hotmail.com,66,Natashaton,PA,2024-10-14,3385.11,2,Crédito,5,True
+947,Mariah Smith DDS,chambersnicholas@robinson-cole.com,27,West Lisaborough,AK,2024-09-12,825.15,16,Crédito,2,True
+948,William Frederick,tarabailey@johnson-castillo.com,38,Bonniefurt,MS,2025-01-21,3437.46,12,Crédito,5,False
+949,Michelle King,ruthbarnes@hernandez.com,55,Kristenside,IL,2024-05-28,1775.72,8,Boleto,3,False
+950,Samantha Walters,leonbrian@johnson.net,66,East David,TX,2024-07-29,4240.92,9,Débito,1,True
+951,Curtis Bradley,burtonalfred@gmail.com,35,West Cindy,FL,2025-01-14,2336.22,4,Boleto,1,True
+952,Jennifer Li,whitekathleen@hotmail.com,27,Howardmouth,SC,2024-08-16,1245.17,24,Boleto,4,True
+953,Deanna Johnson,loveluke@hotmail.com,62,West Felicia,MD,2024-09-17,3836.37,12,Crédito,3,True
+954,Erin Wu,lisa49@yahoo.com,33,Nicholastown,ME,2025-01-25,4895.41,23,Pix,1,True
+955,Joshua Gonzalez,nancygraham@yahoo.com,56,Lake Nicholas,AZ,2025-01-01,3204.85,8,Crédito,3,True
+956,Maria Mullins,pdavis@hotmail.com,32,Coxport,CA,2024-08-11,758.7,10,Pix,4,False
+957,Jordan Payne,daniellepayne@barr.net,51,New Victoriastad,OR,2024-03-22,1101.43,23,Débito,2,False
+958,Manuel Cook,bestjasmine@klein-rogers.info,22,New Jessica,CT,2025-03-08,1960.34,14,Boleto,4,True
+959,Holly Wise,fbarton@jones.com,34,Port Michaelstad,AR,2024-10-26,2533.23,7,Crédito,3,True
+960,Jack Castillo,peter38@miller.org,54,Lake John,CT,2024-10-25,198.69,8,Débito,3,True
+961,Miranda Gross,alexislarsen@carter.org,25,New Amandaberg,KY,2024-11-27,2460.35,9,Pix,3,False
+962,Stephanie Hardy,marknguyen@harrell.com,41,Allenshire,NH,2025-02-01,2426.94,6,Boleto,4,False
+963,Tammie Duran,rachael67@gmail.com,45,Ericside,AK,2024-10-14,2235.83,7,Boleto,3,True
+964,Sean Lopez,kayla25@torres-williams.biz,64,Alvarezshire,KS,2024-09-09,1612.42,4,Débito,4,True
+965,Jennifer Long,jacob19@bell.com,25,Thomaschester,OR,2024-07-30,4789.01,8,Débito,1,True
+966,Jeffrey Key,george99@davis.net,40,North Alexanderland,NY,2024-10-23,3363.43,19,Débito,4,True
+967,Nancy Day,raymondwright@contreras-miller.net,52,Lake David,MA,2024-12-13,3959.38,12,Crédito,2,False
+968,Arthur Cantu,caitlyn96@gmail.com,48,Joshuamouth,RI,2024-12-28,2626.42,24,Boleto,2,False
+969,April Bartlett,jonesjodi@gmail.com,34,Lake Kendra,DC,2024-08-03,1894.12,19,Débito,4,True
+970,Annette Moore,qmathis@fleming-robles.com,45,Nicolemouth,FL,2024-07-06,1918.94,20,Pix,5,True
+971,David Orr,thomasjaime@williams.com,65,West Mary,KY,2024-04-24,1439.58,18,Crédito,5,True
+972,Joshua Coleman,jsanchez@robinson.com,65,Christopherfurt,DC,2024-04-24,2780.12,12,Pix,3,True
+973,David Edwards,youngtaylor@fitzgerald.com,68,Stevensborough,MD,2024-05-13,4285.27,2,Boleto,3,True
+974,Dustin Franklin,victoriagreen@phillips.com,29,South Davidview,WA,2024-11-10,292.09,17,Boleto,3,False
+975,Timothy Palmer,browngeorge@delgado.biz,41,Downsbury,MS,2024-08-04,3781.36,15,Pix,4,False
+976,Jennifer Simon,adamseric@jones-holder.info,32,Petersfurt,WV,2024-04-29,3940.44,11,Crédito,3,True
+977,Miranda Sanford,vangmichael@yahoo.com,57,Bradmouth,NC,2024-11-26,2034.15,11,Débito,4,False
+978,Bradley Yates,jessicamiller@moore.info,48,New Emma,NY,2024-12-17,3744.59,17,Débito,1,True
+979,Allison Vasquez,harpersharon@torres-pierce.org,44,North Tonyabury,VA,2024-07-06,2007.51,16,Débito,5,True
+980,Tiffany Bailey,usimon@hotmail.com,52,Tuckerville,MO,2025-03-11,1645.4,22,Débito,4,True
+981,Jeremy Manning,thomasbrown@french.biz,35,Coreyborough,IL,2024-07-31,1253.86,2,Débito,5,False
+982,Karen Lopez,zmoore@mathews.net,53,Davisville,GA,2025-02-14,4038.58,11,Pix,3,True
+983,Allison Kelly,christianortiz@bates.com,25,Zavalaberg,WY,2024-05-12,242.5,22,Pix,5,True
+984,Austin Davis,keithtate@hotmail.com,63,Phillipsland,PA,2024-08-19,1271.58,1,Crédito,5,False
+985,Jody Anderson,wolfegregory@hotmail.com,66,Andersonhaven,VA,2024-12-16,1576.67,20,Boleto,2,True
+986,Emily Alexander,andrew96@gmail.com,55,Williamberg,NM,2024-06-01,3077.39,16,Débito,4,True
+987,Brittany Patton,julie72@hotmail.com,22,Port Jocelyn,ME,2024-04-05,2186.51,17,Boleto,5,False
+988,Katherine Fletcher,millerrachel@medina.com,31,Lake Benjaminview,HI,2024-09-13,3349.0,9,Débito,1,True
+989,Wendy Rowe,ariasmarissa@mcdaniel.com,55,Carneymouth,TN,2025-03-13,801.0,10,Débito,4,False
+990,Jorge Long,douglas45@yahoo.com,37,Port Michael,MD,2024-07-07,1782.92,21,Pix,1,True
+991,Stephanie Davis,ethan15@mills.com,61,Lewishaven,AL,2024-06-22,2693.62,23,Crédito,4,True
+992,Kathy Thomas,nicholaslewis@miles-allen.biz,26,North Tonya,NC,2025-02-18,3150.57,12,Débito,1,True
+993,Cheyenne Johnson,graybrian@johnson.com,50,Lake Ronald,VT,2025-02-07,1421.04,1,Boleto,2,True
+994,Kenneth Williams,barryjonathan@yahoo.com,35,West Eddie,OK,2024-12-15,1379.73,18,Crédito,3,True
+995,Kristine Hart,michaelchase@hotmail.com,23,Michaelberg,CT,2024-08-15,327.28,8,Pix,3,False
+996,Howard Anderson,barberapril@bowman-meyer.com,54,Teresaside,WA,2024-11-14,4131.28,3,Débito,4,True
+997,Jacob Rivera,ramoskatherine@li-decker.org,19,Rodriguezborough,NJ,2024-06-02,236.94,7,Pix,1,True
+998,Lori Rodriguez,kimberlykeller@gmail.com,47,Nicholasburgh,AK,2024-10-09,1867.11,4,Débito,3,True
+999,Whitney Diaz,kennethnguyen@patton-martin.com,23,Tannerberg,FL,2024-05-23,981.54,14,Boleto,5,False
+1000,Mary Alvarez,harveyrhonda@hotmail.com,34,Port Michaeltown,VT,2024-10-18,2558.66,21,Crédito,3,True
