@@ -24,6 +24,14 @@ data-analytics/
 
 ---
 
+## 🎯 Jornada de Aprendizado
+
+O curso segue uma progressão lógica, do básico ao avançado:
+
+![Jornada de Aprendizado](.github/images/jornada_aprendizado.png)
+
+---
+
 ## 📚 Conteúdo dos Módulos
 
 ### 1. 🐍 python_fundamentos (15 notebooks)
